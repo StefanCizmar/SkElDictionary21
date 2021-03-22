@@ -27,7 +27,7 @@
 17    <application
 17-->/home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:14:1-51:16
 18        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-18-->[com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+18-->[com.android.support:support-compat:28.0.0] /home/stefan/.gradle/caches/transforms-2/files-2.1/49dd2c14dcc57c7f4a0aa1d53483e871/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
 20-->/home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:14:14-48
