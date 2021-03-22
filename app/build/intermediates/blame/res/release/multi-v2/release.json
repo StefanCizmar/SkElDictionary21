@@ -1,0 +1,1641 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,32,33,34,35,36,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,1499,1615,1741,1867,1995,2167",
+                        "endLines": "2,3,4,5,32,33,34,35,38,43",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,1610,1736,1862,1990,2162,2500"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "18,34,6,24",
+                        "startColumns": "1,1,1,2",
+                        "startOffsets": "614,1189,162,802",
+                        "endLines": "20,36,16,32",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "760,1335,611,1186"
+                    },
+                    "to": {
+                        "startLines": "6,9,12,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "354,505,656,1110",
+                        "endLines": "8,11,22,31",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "500,651,1105,1494"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "118",
+                        "startColumns": "4",
+                        "startOffsets": "5737",
+                        "endColumns": "100",
+                        "endOffsets": "5833"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-el/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,158,-1,-1,-1,-1,-1,-1,-1,-1,161,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,160,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,159,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6843,-1,-1,-1,-1,-1,-1,-1,-1,6992,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6947,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6901,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,57,-1,-1,-1,-1,-1,-1,-1,-1,50,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,44,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,45,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6896,-1,-1,-1,-1,-1,-1,-1,-1,7038,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6987,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6942,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,25,26,27,28,29,30,31,32,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,156,237,314,364,423,1497,1550,1611,1675,1759,1817,1884,1925,3146,3188,3253,3315,3378,3446,3497,3552,3618,3690,3751,3798,3839,3882,3939,4000,4075,4146,4206,4267,4314,4359,4424,4459,4532,4593,4637,4711,4756,4814,4876,4918,4963,5021,5085,5150,5192,5237,5295,5354,5411,5470,5524,5583,5651,5838,5884,5951,6002,6045,6093,6134,6182,6229,6279,6328,6372,6416,6463,6507,6554,6600,6643,6694,6747,6791,6838,6888,6937,6987,7035,7100",
+                        "endLines": "2,3,4,5,6,7,24,25,26,27,28,29,30,31,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145",
+                        "endColumns": "41,58,80,76,49,58,126,52,60,63,83,57,66,40,9,41,64,61,62,67,50,54,65,71,60,46,40,42,56,60,74,70,59,60,46,44,64,34,72,60,43,73,44,57,61,41,44,57,63,64,41,44,57,58,56,58,53,58,67,85,45,66,50,42,47,40,47,46,49,48,43,43,46,43,46,45,42,50,52,43,46,49,48,49,47,64,35",
+                        "endOffsets": "92,151,232,309,359,418,1492,1545,1606,1670,1754,1812,1879,1920,3141,3183,3248,3310,3373,3441,3492,3547,3613,3685,3746,3793,3834,3877,3934,3995,4070,4141,4201,4262,4309,4354,4419,4454,4527,4588,4632,4706,4751,4809,4871,4913,4958,5016,5080,5145,5187,5232,5290,5349,5406,5465,5519,5578,5646,5732,5879,5946,5997,6040,6088,6129,6177,6224,6274,6323,6367,6411,6458,6502,6549,6595,6638,6689,6742,6786,6833,6883,6932,6982,7030,7095,7131"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-v25_values-v25.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-v25/styles.xml",
+                    "from": {
+                        "startLines": "16,32,6,22",
+                        "startColumns": "1,1,1,2",
+                        "startOffsets": "566,1141,162,754",
+                        "endLines": "18,34,14,30",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "712,1287,563,1138"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,206,357,763",
+                        "endLines": "4,7,16,25",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "201,352,758,1147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-en_values-en.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,162,-1,-1,-1,-1,-1,-1,-1,-1,165,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,163,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,164,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6594,-1,-1,-1,-1,-1,-1,-1,-1,6735,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6646,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6690,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,51,-1,-1,-1,-1,-1,-1,-1,-1,48,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,44,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6641,-1,-1,-1,-1,-1,-1,-1,-1,6779,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6685,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6730,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,24,25,26,27,28,29,30,31,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,150,231,286,340,391,1311,1362,1419,1483,1553,1605,1669,1715,3106,3148,3207,3269,3321,3376,3425,3479,3536,3598,3646,3690,3728,3768,3820,3868,3941,4011,4061,4113,4159,4197,4257,4291,4363,4423,4463,4526,4570,4623,4689,4732,4778,4833,4891,4950,4989,5031,5085,5135,5189,5249,5306,5362,5420,5492,5537,5603,5655,5702,5749,5790,5841,5886,5935,5980,6027,6072,6119,6164,6211,6258,6303,6352,6405,6450,6495,6551,6602,6653,6704,6752",
+                        "endLines": "2,3,4,5,6,7,23,24,25,26,27,28,29,30,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153",
+                        "endColumns": "39,54,80,54,53,50,110,50,56,63,69,51,63,45,9,41,58,61,51,54,48,53,56,61,47,43,37,39,51,47,72,69,49,51,45,37,59,33,71,59,39,62,43,52,65,42,45,54,57,58,38,41,53,49,53,59,56,55,57,71,44,65,51,46,46,40,50,44,48,44,46,44,46,44,46,46,44,48,52,44,44,55,50,50,50,47,35",
+                        "endOffsets": "90,145,226,281,335,386,1306,1357,1414,1478,1548,1600,1664,1710,3101,3143,3202,3264,3316,3371,3420,3474,3531,3593,3641,3685,3723,3763,3815,3863,3936,4006,4056,4108,4154,4192,4252,4286,4358,4418,4458,4521,4565,4618,4684,4727,4773,4828,4886,4945,4984,5026,5080,5130,5184,5244,5301,5357,5415,5487,5532,5598,5650,5697,5744,5785,5836,5881,5930,5975,6022,6067,6114,6159,6206,6253,6298,6347,6400,6445,6490,6546,6597,6648,6699,6747,6783"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-v29_values-v29.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-v29/styles.xml",
+                    "from": {
+                        "startLines": "15,32,3,22",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "569,1158,56,763",
+                        "endLines": "17,34,13,30",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "722,1311,563,1152"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,213,371,883",
+                        "endLines": "4,7,18,27",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "208,366,878,1272"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "158",
+                        "startColumns": "4",
+                        "startOffsets": "6800",
+                        "endColumns": "100",
+                        "endOffsets": "6896"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-sk/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,195,-1,-1,-1,-1,-1,-1,-1,-1,198,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,197,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,196,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7893,-1,-1,-1,-1,-1,-1,-1,-1,8035,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7991,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7944,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,50,-1,-1,-1,-1,-1,-1,-1,-1,49,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,46,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7939,-1,-1,-1,-1,-1,-1,-1,-1,8080,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,8030,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7986,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,26,27,28,29,30,31,32,33,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,150,227,293,344,396,1304,1356,1410,1474,1549,1600,1677,1724,4336,4379,4442,4504,4554,4615,4665,4720,4782,4840,4892,4938,4977,5018,5072,5125,5199,5268,5319,5373,5425,5463,5526,5561,5632,5700,5739,5809,5853,5912,5971,6013,6061,6118,6182,6245,6287,6332,6390,6440,6496,6551,6607,6667,6728,6901,6948,7013,7061,7109,7157,7198,7246,7291,7341,7386,7432,7478,7525,7570,7615,7661,7708,7755,7809,7853,7898,7947,7999,8049,8100,8151",
+                        "endLines": "2,3,4,5,6,7,25,26,27,28,29,30,31,32,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185",
+                        "endColumns": "45,48,76,65,50,51,96,51,53,63,74,50,76,46,9,42,62,61,49,60,49,54,61,57,51,45,38,40,53,52,73,68,50,53,51,37,62,34,70,67,38,69,43,58,58,41,47,56,63,62,41,44,57,49,55,54,55,59,60,71,46,64,47,47,47,40,47,44,49,44,45,45,46,44,44,45,46,46,53,43,44,48,51,49,50,50,35",
+                        "endOffsets": "96,145,222,288,339,391,1299,1351,1405,1469,1544,1595,1672,1719,4331,4374,4437,4499,4549,4610,4660,4715,4777,4835,4887,4933,4972,5013,5067,5120,5194,5263,5314,5368,5420,5458,5521,5556,5627,5695,5734,5804,5848,5907,5966,6008,6056,6113,6177,6240,6282,6327,6385,6435,6491,6546,6602,6662,6723,6795,6943,7008,7056,7104,7152,7193,7241,7286,7336,7381,7427,7473,7520,7565,7610,7656,7703,7750,7804,7848,7893,7942,7994,8044,8095,8146,8182"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-v22_values-v22.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-v22/styles.xml",
+                    "from": {
+                        "startLines": "16,32,6,22",
+                        "startColumns": "1,1,1,2",
+                        "startOffsets": "566,1141,162,754",
+                        "endLines": "18,34,14,30",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "712,1287,563,1138"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,206,357,763",
+                        "endLines": "4,7,16,25",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "201,352,758,1147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-v24/styles.xml",
+                    "from": {
+                        "startLines": "16,32,6,22",
+                        "startColumns": "1,1,1,2",
+                        "startOffsets": "564,1139,160,752",
+                        "endLines": "18,34,14,30",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "710,1285,561,1136"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,206,357,763",
+                        "endLines": "4,7,16,25",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "201,352,758,1147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,33,40,47,51,55,59,63,67,71,75",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,915,1152,1403,1524,1665,1802,1932,2056,2191,2324",
+                        "endLines": "32,39,46,50,54,58,62,66,70,74,78",
+                        "endColumns": "19,19,19,19,23,19,19,19,19,19,19",
+                        "endOffsets": "910,1147,1398,1519,1660,1797,1927,2051,2186,2319,2452"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "283,288,291,307",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "12215,12452,12613,13636",
+                        "endLines": "287,290,295,309",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "12447,12608,12873,13822"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "84",
+                        "startColumns": "4",
+                        "startOffsets": "2697",
+                        "endColumns": "56",
+                        "endOffsets": "2749"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "79,80,81,82,83,88,90,91,92,93,94",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2457,2509,2561,2602,2647,2944,3058,3101,3146,3188,3234",
+                        "endColumns": "51,51,40,44,49,39,42,44,41,45,50",
+                        "endOffsets": "2504,2556,2597,2642,2692,2979,3096,3141,3183,3229,3280"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,176,-1,-1,-1,-1,-1,-1,-1,-1,179,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,177,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,178,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6692,-1,-1,-1,-1,-1,-1,-1,-1,6833,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6744,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6788,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,51,-1,-1,-1,-1,-1,-1,-1,-1,48,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,44,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6739,-1,-1,-1,-1,-1,-1,-1,-1,6877,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6783,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6828,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "129,130,131,132,133,134,135,151,152,153,154,155,156,157,158,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5356,5396,5451,5532,5587,5641,5692,6612,6663,6720,6785,6855,6907,6971,7017,8400,8442,8501,8563,8615,8670,8719,8773,8830,8892,8940,8984,9022,9062,9114,9162,9235,9305,9355,9407,9453,9491,9551,9585,9657,9717,9757,9820,9864,9917,9983,10026,10072,10128,10186,10245,10284,10326,10380,10441,10491,10545,10605,10662,10718,10776,10919,10964,11030,11082,11129,11176,11217,11268,11313,11362,11407,11454,11499,11546,11591,11638,11685,11730,11779,11832,11877,11922,11978,12029,12080,12131,12179",
+                        "endLines": "129,130,131,132,133,134,150,151,152,153,154,155,156,157,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282",
+                        "endColumns": "39,54,80,54,53,50,110,50,56,64,69,51,63,45,9,41,58,61,51,54,48,53,56,61,47,43,37,39,51,47,72,69,49,51,45,37,59,33,71,59,39,62,43,52,65,42,45,55,57,58,38,41,53,60,49,53,59,56,55,57,71,44,65,51,46,46,40,50,44,48,44,46,44,46,44,46,46,44,48,52,44,44,55,50,50,50,47,35",
+                        "endOffsets": "5391,5446,5527,5582,5636,5687,6607,6658,6715,6780,6850,6902,6966,7012,8395,8437,8496,8558,8610,8665,8714,8768,8825,8887,8935,8979,9017,9057,9109,9157,9230,9300,9350,9402,9448,9486,9546,9580,9652,9712,9752,9815,9859,9912,9978,10021,10067,10123,10181,10240,10279,10321,10375,10436,10486,10540,10600,10657,10713,10771,10843,10959,11025,11077,11124,11171,11212,11263,11308,11357,11402,11449,11494,11541,11586,11633,11680,11725,11774,11827,11872,11917,11973,12024,12075,12126,12174,12210"
+                    }
+                },
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "85,86,87,89,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,118,119,120,121,122,123,124,125,126,127,128,255,296,297,301,302,306,310,311",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2754,2823,2886,2984,3285,3355,3423,3495,3565,3626,3700,3773,3834,3895,3957,4021,4083,4144,4212,4312,4372,4438,4511,4580,4637,4689,4796,4868,4944,4979,5014,5064,5125,5182,5216,5251,5286,10848,12878,12995,13196,13306,13507,13827,13899",
+                        "endLines": "85,86,87,89,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,118,119,120,121,122,123,124,125,126,127,128,255,296,300,301,305,306,310,311",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "2818,2881,2939,3053,3350,3418,3490,3560,3621,3695,3768,3829,3890,3952,4016,4078,4139,4207,4307,4367,4433,4506,4575,4632,4684,4746,4863,4939,4974,5009,5059,5120,5177,5211,5246,5281,5351,10914,12990,13191,13301,13502,13631,13894,13961"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "117",
+                        "startColumns": "4",
+                        "startOffsets": "4751",
+                        "endColumns": "44",
+                        "endOffsets": "4791"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "155",
+                        "startColumns": "4",
+                        "startOffsets": "6804",
+                        "endColumns": "100",
+                        "endOffsets": "6900"
+                    }
+                },
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-cs/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,194,-1,-1,-1,-1,-1,-1,-1,-1,197,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,196,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,195,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7892,-1,-1,-1,-1,-1,-1,-1,-1,8033,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7989,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7942,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,49,-1,-1,-1,-1,-1,-1,-1,-1,48,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,46,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7937,-1,-1,-1,-1,-1,-1,-1,-1,8077,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,8028,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7984,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,24,25,26,27,28,29,30,31,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,149,226,291,342,397,1293,1345,1399,1463,1538,1588,1663,1709,4349,4392,4454,4516,4566,4627,4676,4731,4793,4850,4903,4949,4988,5028,5081,5134,5222,5291,5342,5396,5447,5485,5547,5581,5649,5715,5754,5823,5867,5923,5982,6024,6071,6128,6192,6254,6296,6341,6399,6449,6503,6558,6612,6671,6732,6905,6952,7016,7064,7111,7159,7200,7248,7293,7343,7388,7434,7479,7526,7568,7613,7659,7706,7754,7807,7851,7895,7944,7995,8045,8096,8147",
+                        "endLines": "2,3,4,5,6,7,23,24,25,26,27,28,29,30,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182",
+                        "endColumns": "44,48,76,64,50,54,92,51,53,63,74,49,74,45,9,42,61,61,49,60,48,54,61,56,52,45,38,39,52,52,87,68,50,53,50,37,61,33,67,65,38,68,43,55,58,41,46,56,63,61,41,44,57,49,53,54,53,58,60,71,46,63,47,46,47,40,47,44,49,44,45,44,46,41,44,45,46,47,52,43,43,48,50,49,50,50,35",
+                        "endOffsets": "95,144,221,286,337,392,1288,1340,1394,1458,1533,1583,1658,1704,4344,4387,4449,4511,4561,4622,4671,4726,4788,4845,4898,4944,4983,5023,5076,5129,5217,5286,5337,5391,5442,5480,5542,5576,5644,5710,5749,5818,5862,5918,5977,6019,6066,6123,6187,6249,6291,6336,6394,6444,6498,6553,6607,6666,6727,6799,6947,7011,7059,7106,7154,7195,7243,7288,7338,7383,7429,7474,7521,7563,7608,7654,7701,7749,7802,7846,7890,7939,7990,8040,8091,8142,8178"
+                    }
+                }
+            ]
+        }
+    ]
+}

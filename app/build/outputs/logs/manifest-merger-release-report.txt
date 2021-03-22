@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/47a6a4cbe650527abafad251a3895de1/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:4:2-34
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:6:7-34
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:3:2-48
+	xmlns:android
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:8:19-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:9:2-64
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:9:19-61
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:11:2-68
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:11:19-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:12:2-76
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:12:19-74
+application
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:14:1-51:16
+MERGED from [com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:14:14-48
+	android:theme
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:16:9-40
+activity#samples.dictionary.Dictionary
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:label
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:19:19-51
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:18:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:22:27-74
+activity#samples.dictionary.UI.DictionaryDetails
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:25:6-82
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:25:16-70
+activity#samples.dictionary.UI.AboutApp
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:26:6-73
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:26:16-61
+activity#samples.dictionary.UI.Grammar
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:27:6-72
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:27:16-60
+activity#samples.dictionary.UI.Settings
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:28:6-35:15
+	android:parentActivityName
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:29:4-62
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:28:16-61
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:31:4-33:52
+	android:value
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:33:5-50
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:32:5-51
+activity#samples.dictionary.UI.AboutDict
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:36:6-74
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:36:16-62
+activity#samples.dictionary.UI.AboutMore
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:37:6-74
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:37:16-62
+activity#samples.dictionary.Search
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:38:6-68
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:38:16-56
+activity#samples.dictionary.UI.ThemeGrid
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:39:3-71
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:39:13-59
+activity#samples.dictionary.UI.Game
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:40:6-106
+	android:screenOrientation
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:40:58-94
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:40:16-57
+receiver#samples.dictionary.WidgetDictionaryProvider
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:42:6-49:20
+	android:icon
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:43:10-49
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:42:16-74
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:44:13-46:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:45:17-84
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:45:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:47:13-48:66
+	android:resource
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:48:17-63
+	android:name
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:47:24-65
+uses-sdk
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/47a6a4cbe650527abafad251a3895de1/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/stefan/android-studio/gradle/gradle-5.1.1/caches/transforms-2/files-2.1/47a6a4cbe650527abafad251a3895de1/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		ADDED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml

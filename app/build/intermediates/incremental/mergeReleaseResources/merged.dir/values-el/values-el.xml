@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Σχετικά</string>
+    <string name="aboutDict">Σχετικά με το λεξικό</string>
+    <string name="addto_favorites">Η λέξη ήταν προστέθηκε στα αγαπημένα</string>
+    <string name="anySubstring">υποσυμβολοσειρά από τις δύο πλευρές</string>
+    <string name="app_name">Sk-El Λεξικό</string>
+    <string name="app_name2">Παρακαλώ περιμένετε.</string>
+    <string name="appinfo">\t\tΑπλό offline Σλοβακία - Ελληνικό λεξικό. Περιέχει σχεδόν 29.000 λέξεις και φράσεις.\n
+        Για να αναζητήσετε λέξεις στην σλοβακική γλώσσα θα πρέπει να προστεθεί στις ρυθμίσεις του τηλεφώνου σας Σλοβακίας πληκτρολόγιο.\n
+        \t\tΤο λεξικό περιέχει ένα απλό παιχνίδι και widget που δείχνει τυχαίες λέξεις.\n
+        \t\tΟι ρυθμίσεις επιτρέπουν:\n
+- να επιλέγω σκούρο ή φωτεινό θέμα\n
+- μέγεθος γραμματοσειράς\n
+- μέθοδος αναζήτησης\n
+- αναζήτηση χωρίς σημεία στίξης\n
+- εμφανίζω άρθα \n
+- εμφανίζω μέρος του λόγου \n
+- επιτρέπουν την ομιλία\n
+- να επιλέγω τη γλώσσα των σημειώσεων και μέρη του λόγου\n
+- να επιλέγω γλώσσα ομιλίας\n
+        \t\t Κρατώντας τη λέξη, προσθέτετε τη λέξη στα αγαπημένα σας. Η εφαρμογή υποστηρίζει κείμενο σε ομιλία. Ενημερώστε το Google TTS για να υποστηρίξετε σλοβάκικα και ελληνικά.
+        Ενεργοποιήστε την ομιλία στις ρυθμίσεις και κάντε κλικ στο εικονίδιο ηχείου.
+         \n
+        \tΚατά τη μετατροπή της ομιλίας σε κείμενο, πρέπει να ενεργοποιήσετε την εφαρμογή για πρόσβαση στο μικρόφωνο.</string>
+    <string name="articles">Εμφάνιση άρθρων</string>
+    <string name="choose_theme">Ταίριαξε τις λέξεις</string>
+    <string name="copyright">2012 – 2020 Stefan Cizmar</string>
+    <string name="create_database_done">Δημιουργία βάσης δεδομένων γίνεται</string>
+    <string name="dbver">Έκδοση βάσης δεδομένων:</string>
+    <string name="dell_favorites">Αφαιρώ όλα τα αγαπημένα</string>
+    <string name="detail">Κλίση</string>
+    <string name="dictinfo">\n\tΣυντομογραφίες και εκφράσεις στο λεξικό.\n
+\n
+        \tΣτη Σλοβακική γλώσσα:
+      \n\n
+        CITOSLOV. - επιφώνημα \n
+ČASTICA - μόριο \n
+ČÍSL. - αριθμός \n
+PO. M. MUŽ. -  ουσιαστικό αρσενικό \n
+PO. M. MUŽ. MN. - ουσιαστικό αρσενικό πληθυντικό \n
+PO. M. MUŽ. NESKL. - ουσιαστικό αρσενικό άκαμπτο \n
+PO. M. STR. - ουσιαστικό ουδέτερο \n
+PO. M. STR. MN. - ουσιαστικό ουδέτερο πληθυντικό \n
+PO. M. STR. NESKL. - ουσιαστικό ουδέτερο άκαμπτο \n
+PO. M. ŽEN. - ουσιαστικό θηλυκό \n
+PO. M. ŽEN. MN. - ουσιαστικό θηλυκό πληθυντικό \n
+PO. M. ŽEN. NESKL. -  ουσιαστικό θηλυκό άκαμπτο \n
+PREDL. - πρόθεση \n
+PRÍD. M. - επίθετο \n
+PRÍD. M. MN. - prídavné meno množné číslo \n
+PRÍD. M. NESKL. - επίθετο πληθυντικό \n
+PRÍSL. - επίρρημα \n
+ROZKAZ. - προστακτική \n
+SKRATKA - σύντμηση \n
+SLOV. - ρήμα \n
+SLOV. MIN. ČAS - ρήμα παρελθόν \n
+SLOV. MIN. PAS. HL. - ρήμα παρελθόν παθητική φωνή \n
+SLOV. PAS. HL. - ρήμα παθητική φωνή \n
+SLOV. PRÍČ. - ρήμα μετοχή \n
+SPOJKA - σύνδεσμος \n
+ZÁM. - αντωνυμία \n
+ZDROB. - υποκοριστικό \n\n
+
+
+συντομογραφίες σε κλίση:\n
+ονομ. - ονομαστική\n
+γεν. - γενική\n
+αιτ. - αιτιατική\n
+αρσενικό - αρσενικό γένος\n
+θηλυκό - θηλυκό γένος\n
+ουδέτερο - ουδέτερο γένος\n
+</string>
+    <string name="donate">Δωρίζω</string>
+    <string name="el_sk_directory">Ελληνικά - Σλοβακικά</string>
+    <string name="email">stefan.cizmar.pp@centrum.sk</string>
+    <string name="enableTTS">Ενεργοποιήστε την ομιλία</string>
+    <string name="endSubstring">υποσυμβολοσειρά  στο τέλος</string>
+    <string name="end_test">Τέλος δοκιμής</string>
+    <string name="error_client">Σφάλμα πελάτη</string>
+    <string name="error_nomatch">Πατήστε και επαναλάβετε</string>
+    <string name="error_server">Το δίκτυο είναι αποσυνδεδεμένο!</string>
+    <string name="font_size">Μέγεθος Γραμματοσειράς</string>
+    <string name="grammar">Γραμματική</string>
+    <string name="gre">ελληνικά</string>
+    <string name="greek">ελληνικά</string>
+    <string name="greekwords">Ελληνικές λέξεις:</string>
+    <string name="huge_font">Τεράστια γραμματοσειρά</string>
+    <string name="initilizationFailed">Η προετοιμασία TTS απέτυχε</string>
+    <string name="language">Γλώσσα σημειώσεις και κλάσης λέξη</string>
+    <string name="large_font">Μεγάλα γραμματοσειρά</string>
+    <string name="medium_font">Μεσαία γραμματοσειρά</string>
+    <string name="menu_setting">Μενού</string>
+    <string name="more">Περισσότερο</string>
+    <string name="network_timeout">Χρονικό όριο δικτύου</string>
+    <string name="no">Οχι</string>
+    <string name="noSupportLanguage">Η γλώσσα δεν υποστηρίζεται</string>
+    <string name="no_accent">Αναζήτηση χωρίς τόνους</string>
+    <string name="pexeso">Παιχνίδι</string>
+    <string name="recognizer_busy">Recognizer είναι απασχολημένο</string>
+    <string name="refresh">Ανανέωση</string>
+    <string name="searchType">Μέθοδος αναζήτησης</string>
+    <string name="search_hint">Αναζήτηση στο λεξικό:</string>
+    <string name="settheme">Θέμα</string>
+    <string name="settings">Ρύθμιση</string>
+    <string name="show_articles"> Εμφάνιση άρθρα</string>
+    <string name="show_word_type">Εμφάνιση τύπου λέξης</string>
+    <string name="sk_el_directory">Σλοβάκικα - Ελληνικά</string>
+    <string name="slo">σλοβακικά</string>
+    <string name="slovak">σλοβακικά</string>
+    <string name="slovakwords">Σλοβακίας λέξεις:</string>
+    <string name="small_font">Μικρά γραμματοσειρά</string>
+    <string name="speech_greek">μιλάτε ελληνικά</string>
+    <string name="speech_language">Γλώσσα ομιλίας</string>
+    <string name="speech_prompt">Πείτε κάτι…</string>
+    <string name="speech_slovak">μιλάτε σλοβακικά</string>
+    <string name="speech_timeout">Χρονικό όριο της ομιλίας</string>
+    <string name="start_create_database">Εκκίνηση δημιουργία βάσης δεδομένων</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success">Επιτυχία:</string>
+    <string name="supportLanguage">Η γλώσσα υποστηρίζεται</string>
+    <string name="th_all">Ολόκληρο λεξικό</string>
+    <string name="th_animals">Ζώα</string>
+    <string name="th_biology">Βιολογία</string>
+    <string name="th_body">Σώμα</string>
+    <string name="th_chemistry">Χημεία</string>
+    <string name="th_church">Εκκλησία</string>
+    <string name="th_everyday">Κάθε μέρα</string>
+    <string name="th_family">Οικογένεια</string>
+    <string name="th_food">Τρόφιμα</string>
+    <string name="th_health">Υγεία</string>
+    <string name="th_housing">Στέγαση</string>
+    <string name="th_market">Αγορά</string>
+    <string name="th_numbers">Αριθμοί</string>
+    <string name="th_physics">Φυσική</string>
+    <string name="th_plants">Φυτά</string>
+    <string name="th_pronouns">Αντωνυμίες</string>
+    <string name="th_restaurant">Εστιατόριο</string>
+    <string name="th_school">Σχολή</string>
+    <string name="th_sports">Αθλήματα</string>
+    <string name="th_transport">Μεταφορά</string>
+    <string name="th_traveling">Ταξίδια</string>
+    <string name="themeblack">Θέμα μαύρο</string>
+    <string name="themelight">Θέμα Φως</string>
+    <string name="tiny_font">Μικροσκοπικά γραμματοσειρά</string>
+    <string name="yes">Ναί</string>
+</resources>

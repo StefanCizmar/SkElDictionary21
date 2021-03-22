@@ -1,0 +1,108 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-annotations"
+    version: "28.0.0"
+  }
+  digests {
+    sha256: "][\224\024\360-?\240\356u&\270\325\335\256\r\246|\216\314\214Mc\377\246\317\221H\212\223\271\'"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-compat"
+    version: "28.0.0"
+  }
+  digests {
+    sha256: "\341~;\001\333\352?\236\241\310iC)/\220<\251=\"1\306$.En\vj\234X\027\021\212"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "collections"
+    version: "28.0.0"
+  }
+  digests {
+    sha256: "\223\302X\310\240\237S\032&vS\202\227B\300\370\366\332\0164\213\021\313\206U\260\205V(\362\324\360"
+  }
+}
+library {
+  maven_library {
+    groupId: "android.arch.lifecycle"
+    artifactId: "runtime"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "\304\344\276f\301\262\360\253\354Y5qEN\035\341@\023\367\340\371k\362\251\362\022\223\032H\312\345P"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "versionedparcelable"
+    version: "28.0.0"
+  }
+  digests {
+    sha256: "`\353\034\260\217q\266\\?a#\023^\003\353\353Y0\265\341&\341\345\262\254\221\263\206\220\214\235\002"
+  }
+}
+library {
+  maven_library {
+    groupId: "android.arch.lifecycle"
+    artifactId: "common"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "\2157\216\210\353\325\030\236\t\356\366#AH\022\310h\375\220\252Q\235a`\3421\037\270\270\034\377V"
+  }
+}
+library {
+  maven_library {
+    groupId: "android.arch.core"
+    artifactId: "common"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: ":aj2\3643\351\342?Uk8W\\1\260\023a=:\350R\006&;v%\376\037L\025\032"
+  }
+}
+library_dependencies {
+  library_index: 1
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 3
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 2
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 5
+  library_dep_index: 6
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 5
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 6
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 0
+  library_dep_index: 2
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+}

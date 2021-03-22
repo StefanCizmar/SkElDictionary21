@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sk-El Dictionary</string>
+	<string name="app_name2">Please wait.</string>
+    
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="settheme">Theme</string>
+    <string name="menu_setting">Menu</string>
+    <string name="themelight">Theme light</string>
+    <string name="themeblack">Theme black</string>
+    <string name="font_size">Font size</string>
+    
+    <string name="huge_font">Huge font</string>
+    <string name="large_font">Large font</string>
+    <string name="medium_font">Medium font</string>
+    <string name="small_font">Small font</string>
+    <string name="tiny_font">Tiny font</string>
+	<string name="searchType">Search method</string>
+	<string name="endSubstring">End substring</string>
+	<string name="anySubstring">Any substring</string>
+	
+	<string name="enableTTS">Enable speech</string>     
+	<string name="noSupportLanguage">Language is not supported</string>
+	<string name="supportLanguage">Language is supported</string>
+	<string name="initilizationFailed">TTS Initilization Failed</string>
+	<string name="speech_prompt">Say something&#8230;</string>
+	
+	<string name="error_nomatch">Tap and repeat</string>
+	<string name="error_server">Network disconnected!</string>
+	<string name="recognizer_busy">Recognizer is busy</string>
+	<string name="error_client">Error client</string>
+	<string name="network_timeout">Network timeout</string>
+	<string name="speech_timeout">Speech timeout</string>
+	
+	<string name="speech_slovak">speech slovak</string>
+	<string name="speech_greek">speech greek</string>
+	<string name="slovak">slovak</string>
+	<string name="greek">greek</string>
+    <string name="pexeso">Game</string>
+	
+    <string name="grammar">Grammar</string>
+    <string name="start_create_database">Start create database</string>
+    <string name="create_database_done">Create database done</string>
+    <string name="search_hint">Search in the dictionary:</string>
+   	<string name="detail">Declension</string>
+    <string name="aboutDict">About dictionary</string>
+    <string name="slovakwords">Slovak words:</string>
+    <string name="greekwords">Greek words:</string>
+    <string name="show_articles">Show aticles</string>
+    
+    <string name="show_word_type">Show word type</string>
+    <string name="speech_language">Speech language</string>
+    <string name="language">Language of notes and word class</string>
+    <string name="slo">Slovak</string>
+    <string name="gre">Greek</string>
+    <string name="articles">Show articles</string>
+    <string name="more">More</string>
+    <string name="email">stefan.cizmar.pp@centrum.sk</string>
+    <string name="donate">Donate</string>
+     
+    <string name="dell_favorites">Delete all favorites</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+	<string name="addto_favorites">The word has been added to favorites</string>    
+    
+    <string name="no_accent">Search without accent</string>
+    <string name="appinfo">\t\tSimple offline Slovak - Greek dictionary. Contains almost 29,000 words and phrases.
+        To search words in Greek, you need to add a Greek keyboard in your phone settings.\n
+        \t\tThe dictionary contains a simple matching game and a widget displaying random words.\n
+        \t\tThe settings allow: \n
+        - choose a dark or light theme \n
+        - font size \n
+        - search method \n
+        - search without punctuation \n
+        - view member \n
+        - display part of speech \n
+        - allow speech \n
+        - choose the language of notes and part of speech \n
+        - choose speech language \n
+        \t\tLong tap on word add word to favorites. \n
+        \t\tApplication support text-to-speech. Enable speech in settings and click the word.\n
+        \t\tWhen converting speech to text, you must enable the application to access the microphone.</string>
+    <string name="copyright">2012 – 2020 Stefan Cizmar</string>
+    
+    <string name="dictinfo">\n\t Abbreviations and expressions in the dictionary.\n
+
+
+        \n
+  \t In Slovak language:
+      \n\n
+        CITOSLOV. - interjection \n
+ČASTICA - particle \n
+ČÍSL. - numeral \n
+PO. M. MUŽ. - masculine noun \n
+PO. M. MUŽ. MN. - masculine noun plural \n
+PO. M. MUŽ. NESKL. - masculine noun indeclinable \n
+PO. M. STR. - neuter noun \n
+PO. M. STR. MN. - neuter noun plural \n
+PO. M. STR. NESKL. - neuter noun indeclinable \n
+PO. M. ŽEN. - female noun \n
+PO. M. ŽEN. MN. - female noun plural \n
+PO. M. ŽEN. NESKL. -  female noun indeclinable \n
+PREDL. - preposition \n
+PRÍD. M. - adjective \n
+PRÍD. M. MN. - adjective plural \n
+PRÍD. M. NESKL. - adjective indeclinable \n
+PRÍSL. - adverb \n
+ROZKAZ. - imperative \n
+SKRATKA - abbreviation \n
+SLOV. - verb \n
+SLOV. MIN. ČAS - verb past tense \n
+SLOV. MIN. PAS. HL. - verb past passive voice \n
+SLOV. PAS. HL. - verb passive voice \n
+SLOV. PRÍČ. - verb participle \n
+SPOJKA - conjunction \n
+ZÁM. - pronoun \n
+ZDROB. - diminutive \n\n
+
+words and abbreviations in declension.\n\n
+
+ενεργητική - active voice\n
+παθητική - passive voice\n
+ενικός - singular č.\n
+πληθυντικός - plural\n
+ενεστώτας - present time\n
+αόριστος - past time\n
+μέλλοντας - future time\n
+προστακτική - imperative\n
+ονομ. - nominative\n
+γεν. - genitive\n
+αιτ. - accusative\n
+αρσενικό - masculine\n
+θηλυκό - feminine\n
+ουδέτερο - neuter\n
+</string>
+    <string name="sk_el_directory">Slovak - Greek</string>
+    <string name="el_sk_directory">Greek - Slovak</string>
+
+    <string name="choose_theme">Match the words</string>
+
+    <string name="th_numbers">Numbers</string>
+    <string name="th_family">Family</string>
+    <string name="th_market">Market</string>
+    <string name="th_restaurant">Restaurant</string>
+    <string name="th_pronouns">Pronouns</string>
+    <string name="th_chemistry">Chemistry</string>
+    <string name="th_health">Health</string>
+    <string name="th_body">Body</string>
+    <string name="th_school">School</string>
+    <string name="th_traveling">Traveling</string>
+    <string name="th_biology">Biology</string>
+    <string name="th_all">Whole dictionary</string>
+    <string name="th_animals">Animals</string>
+    <string name="th_plants">Plants</string>
+    <string name="th_sports">Sports</string>
+    <string name="th_physics">Physics</string>
+    <string name="th_housing">Housing</string>
+    <string name="th_transport">Transportation</string>
+    <string name="th_church">Church</string>
+    <string name="th_food">Foodstuffs</string>
+    <string name="th_everyday">Everyday</string>
+    <string name="dbver">Database version:</string>
+    <string name="refresh">Refresh</string>
+    <string name="success">Success:</string>
+    <string name="end_test">End of test</string>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+	<LinearLayout
+	    android:id="@+id/LinearLayoutDetail"
+	    android:layout_width="fill_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+	    android:padding="16sp" >
+
+	    <TextView
+	        android:id="@+id/wordDetail"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="word"
+	        android:textColor="@color/wordColorBlack"
+	        android:textSize="15sp" />
+
+	    <TextView
+	        android:id="@+id/definitionDetail"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="TextView"
+	        android:textColor="@color/backgroundLight"
+	        android:textSize="13sp" />
+
+	    <TextView
+	        android:id="@+id/def2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="TextView"
+	        android:textColor="@color/defColorBlack"
+	        android:textSize="13sp" />
+
+	    <WebView
+	        android:id="@+id/webViewAbout"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent" />
+
+	</LinearLayout>
+
+	<ListView
+	    android:id="@android:id/list"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" />
+
+</LinearLayout>

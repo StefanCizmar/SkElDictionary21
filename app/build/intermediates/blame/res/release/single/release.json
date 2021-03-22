@@ -1,0 +1,2678 @@
+[
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_dictionary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_dictionary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vlastny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vlastny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chutny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chutny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_loading.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/loading.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_ab_search.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/ab_search.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ukazovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ukazovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_change_high.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/change_high.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_blondavy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/blondavy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-ldpi_ic_dictionary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-ldpi/ic_dictionary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_otvoreny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/otvoreny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ohnivy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ohnivy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_divider2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/divider2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_robim.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/robim.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lucit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lucit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skryty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skryty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ponahlam_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ponahlam_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mierny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mierny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hadzat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hadzat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tmavy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tmavy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_piesocnaty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/piesocnaty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_melodicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/melodicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_odmietat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/odmietat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude5.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude5.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zabavny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zabavny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ist.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ist.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hnedy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hnedy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_biely.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/biely.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pleteny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pleteny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zly.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zly.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zavriet.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zavriet.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-night_divider2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-night/divider2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_jarny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/jarny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bohaty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bohaty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chudy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chudy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_favorites.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_favorites.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_dictionary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_dictionary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sialeny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sialeny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vediet.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vediet.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_tb_el.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/tb_el.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_policajny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/policajny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lezat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lezat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_objat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/objat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_maly.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/maly.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_stlat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/stlat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_nospeech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_nospeech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_suhlasit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/suhlasit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hluchy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hluchy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_settings2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_settings2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vratit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vratit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude7.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude7.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sedim.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sedim.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_piect.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/piect.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hladat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hladat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zostat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zostat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_notok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/notok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mucit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mucit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vediet2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vediet2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nastevujem.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nastevujem.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_darovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/darovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_slaby.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/slaby.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_tb_el.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/tb_el.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_black_box.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/black_box.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_pronouns.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_pronouns.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hodvabny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hodvabny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_divider.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/divider.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/menu_pexeso_menu.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/menu/pexeso_menu.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pokracovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pokracovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mudry.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mudry.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_varit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/varit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_druhy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/druhy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_search.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/search.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bezpecny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bezpecny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plamenny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plamenny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_dell_fav.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_dell_fav.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_komfortny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/komfortny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_citat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/citat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_uchopit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/uchopit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_back2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_back2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_speech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_speech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rybar.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rybar.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_widget_button_down.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/widget_button_down.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_refresh.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pracovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pracovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_back2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_back2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hovorit2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hovorit2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_biedny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/biedny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_budovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/budovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_mic1.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/mic1.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_usmievat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/usmievat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozerat2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozerat2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_silny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/silny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_orat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/orat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dakujem.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dakujem.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_farebny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/farebny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_slany.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/slany.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude9.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude9.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_obchodny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/obchodny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_n_setting.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_n_setting.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_church.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_church.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ranny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ranny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_tb_sk.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/tb_sk.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cely_2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cely_2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-ldpi_ic_action_speech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-ldpi/ic_action_speech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skakat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skakat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_dell_all.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_dell_all.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_neznamy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/neznamy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_muzsky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/muzsky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rozumiet.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rozumiet.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_malovat_s.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/malovat_s.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cakat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cakat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/menu_menu.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_n_setting.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_n_setting.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kamenny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kamenny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_fukat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/fukat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vlneny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vlneny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_letecky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/letecky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_objednavat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/objednavat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kolky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kolky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_filled_box.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/filled_box.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/xml_user_setting.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/xml/user_setting.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nasilny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nasilny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prekvapit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prekvapit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pravdivy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pravdivy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prekladat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prekladat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_priat_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/priat_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hodit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hodit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_n_game.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_n_game.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vystartovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vystartovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vychodny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vychodny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_favorites2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_favorites2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_obedovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/obedovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cvicit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cvicit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_dell_all.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_dell_all.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_grammary.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/grammary.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_priniest.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/priniest.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zivy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zivy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_znicit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/znicit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_strasny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/strasny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_malovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/malovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_favorites.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_favorites.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dobry.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dobry.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_obtiazny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/obtiazny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_n_dictionary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_n_dictionary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_aboutmore.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/aboutmore.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_n_info.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_n_info.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_absolutny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/absolutny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mobilny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mobilny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_fyzicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/fyzicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sql05122020.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sql05122020.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_riadit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/riadit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cesat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cesat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude3.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude3.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prepacit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prepacit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_settings2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_settings2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mrtvy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mrtvy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable_widget_preview.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable/widget_preview.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_klacat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/klacat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_necisty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/necisty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_adoptovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/adoptovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_patrit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/patrit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vzacny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vzacny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_iny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/iny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_n_game.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_n_game.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dokoncit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dokoncit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nahanat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nahanat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_n_grammary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_n_grammary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dufat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dufat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mliecny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mliecny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_body.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_body.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout-land_aboutprog.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout-land/aboutprog.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pocitat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pocitat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_agresivny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/agresivny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_manzelsky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/manzelsky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_plants.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_plants.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_nospeech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_nospeech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nezbedny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nezbedny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_n_grammary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_n_grammary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozorny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozorny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zmenit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zmenit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_naplnovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/naplnovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pasivny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pasivny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozerat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozerat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_podpisat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/podpisat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_novy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/novy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_radovat_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/radovat_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_menovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/menovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_posmievat_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/posmievat_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_delit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/delit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bavlneny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bavlneny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozvat2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozvat2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_past.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/past.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_opekany.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/opekany.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zamilovany.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zamilovany.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pricestovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pricestovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_spolocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/spolocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_frame.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/frame.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_mba.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/mba.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_soundoff.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_soundoff.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_back2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_back2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_uzky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/uzky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_back2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_back2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude1.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude1.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zacinat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zacinat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_debatovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/debatovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vlhky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vlhky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lahky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lahky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zatvoreny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zatvoreny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_javit_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/javit_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_horky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/horky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_speech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_speech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zakladny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zakladny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_sound.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_sound.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cesat_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cesat_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pocut.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pocut.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_soundoff.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_soundoff.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nachladnuty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nachladnuty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_husty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/husty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_gymnasticky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/gymnasticky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_mbb.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/mbb.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_physics.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_physics.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_notok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/notok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_drahy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/drahy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pliest.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pliest.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mlcat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mlcat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_novy2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/novy2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_notok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/notok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vojensky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vojensky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rovnaky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rovnaky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pytat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pytat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_sound.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_sound.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tyzdenny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tyzdenny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skaredy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skaredy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-ldpi_ic_action_back2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-ldpi/ic_action_back2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mozny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mozny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_food.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_food.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_stat_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/stat_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plochy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plochy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_umely.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/umely.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_aplikovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/aplikovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_energeticky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/energeticky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kozeny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kozeny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_moct.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/moct.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sivy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sivy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_medeny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/medeny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_favorites.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_favorites.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_dictionary_details.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/dictionary_details.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_back.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prenajat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prenajat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_speech_dialiog_kids.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/speech_dialiog_kids.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nosit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nosit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_burat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/burat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_biely_l.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/biely_l.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_daleky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/daleky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout-land_search.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout-land/search.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mysliet.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mysliet.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_n_game.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_n_game.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_predavat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/predavat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_n_infodict.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_n_infodict.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bosy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bosy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_settings2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_settings2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chytat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chytat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_stratit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/stratit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zvedavy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zvedavy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_holit_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/holit_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_jednoduchy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/jednoduchy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_narodny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/narodny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_oceansky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/oceansky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_miesat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/miesat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mastny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mastny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pitny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pitny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pekar.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pekar.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_n_setting.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_n_setting.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plytky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plytky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hrat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hrat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zapadny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zapadny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_nospeech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_nospeech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_back.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_obliekat_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/obliekat_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tradicny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tradicny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_papierovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/papierovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_odcitat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/odcitat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_dell_all2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_dell_all2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nebezpecny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nebezpecny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dat_o.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dat_o.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_odpovedat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/odpovedat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ozdobit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ozdobit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_speech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_speech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_opacny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/opacny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cely_1.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cely_1.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_background.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_aboutmore.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/aboutmore.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_n_info.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_n_info.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_psychiatricky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/psychiatricky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_meskat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/meskat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kupat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kupat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozehnat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozehnat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_stavat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/stavat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pamatat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pamatat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_isty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/isty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_znamy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/znamy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tucny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tucny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sucastny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sucastny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vyprazany.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vyprazany.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_grammary.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/grammary.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_externy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/externy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prestierat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prestierat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/xml_widget_dictionary_info.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/xml/widget_dictionary_info.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hladky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hladky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_krasny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/krasny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude10.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude10.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dnesny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dnesny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_travit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/travit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_soundoff.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_soundoff.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_oddeleny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/oddeleny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zapalovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zapalovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_transport.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_transport.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_poludnajsi.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/poludnajsi.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_n_info.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_n_info.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dychat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dychat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_house.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_house.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_potapat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/potapat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_tb_el.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/tb_el.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_knaz.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/knaz.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_n_info.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_n_info.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sekat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sekat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_back2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_back2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sadit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sadit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_activity_settings.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_predny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/predny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_back_high.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/back_high.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_divider3.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/divider3.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude6.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude6.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kradnut.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kradnut.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_nospeech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_nospeech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rezat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rezat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_sound.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_sound.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_soundoff.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_soundoff.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plavat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plavat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_stretnut.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/stretnut.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-night_ic_action_dell_fav2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-night/ic_action_dell_fav2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_round.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/round.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_koncit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/koncit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dlhy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dlhy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_diskutovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/diskutovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_parny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/parny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_sound.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_sound.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_speech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_speech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zeleny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zeleny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_style.css.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/style.css"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prijat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prijat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_bio.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_bio.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vareny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vareny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_slnecny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/slnecny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_obliekat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/obliekat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hladat2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hladat2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plasticky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plasticky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_tb_sk.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/tb_sk.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_nospeech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_nospeech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dreveny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dreveny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zbytocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zbytocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_n_setting.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_n_setting.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_byvat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/byvat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_casty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/casty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hladovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hladovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tohtorocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tohtorocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_studovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/studovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rozny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rozny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_speech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_speech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_sound.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_sound.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_speech4.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_speech4.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_domaci.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/domaci.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_bottom_line.9.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/bottom_line.9.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_restaurant.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_restaurant.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_dictionary_list_item.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/dictionary_list_item.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cerstvy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cerstvy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_odlozit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/odlozit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_snivat_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/snivat_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_n_grammary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_n_grammary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nakupovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nakupovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_dictionary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_dictionary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude4.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude4.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_programovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/programovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kratky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kratky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pomahat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pomahat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pohodlny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pohodlny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kracat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kracat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-ldpi_ic_action_nospeech.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-ldpi/ic_action_nospeech.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_moderny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/moderny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vecerny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vecerny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_polovicny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/polovicny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hlboky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hlboky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dotykat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dotykat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_settings2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_settings2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tenky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tenky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_parkovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/parkovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zvonit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zvonit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zahasit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zahasit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-night_ic_action_dell_all2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-night/ic_action_dell_all2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zasluzit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zasluzit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_sports.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_sports.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_blizky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/blizky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pripravit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pripravit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_mic2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/mic2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_politicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/politicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_preferovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/preferovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_family.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_family.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_favorites2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_favorites2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_tb_selector.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/tb_selector.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_back.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dazdivy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dazdivy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nudit_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nudit_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ucit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ucit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zlaty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zlaty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_premyslat_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/premyslat_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_input.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_widget_preview.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/widget_preview.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_posledny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/posledny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_historicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/historicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_dell_all2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_dell_all2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vcerajsi.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vcerajsi.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_volat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/volat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cierny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cierny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_svetlomodry.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/svetlomodry.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pomarancovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pomarancovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_siroky_1.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/siroky_1.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prist.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prist.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_fanaticky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/fanaticky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_chemistry.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_chemistry.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_favorites.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_favorites.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cudzy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cudzy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vidim.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vidim.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zastavit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zastavit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_n_game.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_n_game.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_notok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/notok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sladky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sladky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_soundoff.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_soundoff.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tahat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tahat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nizky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nizky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_n_infodict.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_n_infodict.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hovadzi.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hovadzi.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_existovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/existovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pevny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pevny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_dell_fav2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_dell_fav2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_market.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_market.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_everyday.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_everyday.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_tb_sk.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/tb_sk.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_eticky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/eticky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prosim.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prosim.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lietat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lietat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_amplitude8.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/amplitude8.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_action_favorites2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_action_favorites2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_school.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_school.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chladny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chladny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chodit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chodit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_oslavovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/oslavovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skutocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skutocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_celny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/celny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skusat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skusat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kupovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kupovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lizat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lizat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_grecky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/grecky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_widget_bt.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/widget_bt.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_rozpravkovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/rozpravkovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_themegrid.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/themegrid.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_fajcit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/fajcit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nakazit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nakazit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_acylpyrin.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/acylpyrin.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ozdobit2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ozdobit2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_verit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/verit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_veriaci.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/veriaci.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_modlit_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/modlit_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_n_setting.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_n_setting.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_padat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/padat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tazky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tazky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_davny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/davny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_psychologicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/psychologicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zdravy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zdravy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_jest.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/jest.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_poziciavat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/poziciavat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_drazdit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/drazdit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_gulovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/gulovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hruby.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hruby.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_traveling.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_traveling.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_denny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/denny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cisty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cisty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zrely.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zrely.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_minat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/minat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_favorites.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/favorites.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_eroticky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/eroticky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_najst.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/najst.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_azurovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/azurovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pracovity.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pracovity.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dalsi.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dalsi.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_drzat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/drzat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_widget_button.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/widget_button.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tancovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tancovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zelezny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zelezny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mesacny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mesacny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_pexeso.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/pexeso.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_buduci.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/buduci.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_volny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/volny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pisaci.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pisaci.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ziadat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ziadat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_animals.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_animals.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_n_game.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_n_game.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kupat_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kupat_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dopravny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dopravny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_klasicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/klasicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_n_grammary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_n_grammary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_n_info.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_n_info.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_settings2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_settings2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cistit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cistit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_obrovsky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/obrovsky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bravcovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bravcovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tajny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tajny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plnit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plnit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_n_infodict.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_n_infodict.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pomocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pomocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_siroky_2.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/siroky_2.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pracovat_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pracovat_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozvat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozvat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_dell_all.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_dell_all.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_susedny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/susedny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hovorit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hovorit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zajtrajsi.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zajtrajsi.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_oddelovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/oddelovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_n_grammary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_n_grammary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_favorites.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_favorites.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_odist.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/odist.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pravidelny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pravidelny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_makky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/makky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cerveny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cerveny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_dictionary.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_dictionary.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zaporny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zaporny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_oholeny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/oholeny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_theme_grid_view_items.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/theme_grid_view_items.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_znacny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/znacny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ukoncit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ukoncit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_health.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_health.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_teply.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/teply.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hnevat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hnevat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_severny_vietor.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/severny_vietor.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_umyvat_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/umyvat_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_velky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/velky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mliekar.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mliekar.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_notok.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/notok.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_milovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/milovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zlty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zlty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vnutorny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vnutorny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chudobny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chudobny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_aboutprog.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/aboutprog.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_suchy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/suchy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kricat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kricat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_davat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/davat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_potrebovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/potrebovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lacny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lacny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chcem.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chcem.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pozdravovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pozdravovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_luxusny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/luxusny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dovolit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dovolit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_toolbar.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skryt.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skryt.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_lepit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/lepit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prasknut.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prasknut.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_favorites2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_favorites2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_logo_about.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/logo_about.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_elektricky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/elektricky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_speech2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_speech2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ohrievat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ohrievat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_falosny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/falosny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_cestovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/cestovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zensky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zensky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_opatrny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/opatrny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_futbalovy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/futbalovy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_opravit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/opravit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_platit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/platit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_morsky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/morsky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_hlineny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/hlineny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_presny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/presny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plakat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plakat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_aboutdict.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/aboutdict.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_tvrdy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/tvrdy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_a_hladat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/a_hladat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_prazdny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/prazdny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_svetlo.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/svetlo.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_kontrolovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/kontrolovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_plny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/plny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pisat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pisat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_n_infodict.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxhdpi/ic_n_infodict.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_neisty.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/neisty.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vyslovit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vyslovit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zimny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zimny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dostatocny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dostatocny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_sql07122020.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/sql07122020.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_namornicky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/namornicky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_horuci.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/horuci.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_najlepsi.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/najlepsi.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_telefonovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/telefonovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_zeleninar.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/zeleninar.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_mlady.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/mlady.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_otvorit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/otvorit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_opakovat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/opakovat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_smazit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/smazit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_severny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/severny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ucic_sa.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ucic_sa.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_numbers.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_numbers.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_dell_all2.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_dell_all2.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_skleneny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/skleneny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_juzny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/juzny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/layout_widget_dictionary.xml.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/layout/widget_dictionary.xml"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_n_infodict.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-xxxhdpi/ic_n_infodict.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_pestry.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/pestry.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_stojim_paf.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/stojim_paf.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_spievat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/spievat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_holy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/holy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_psenicny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/psenicny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_speech3.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_speech3.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_smiat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/smiat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_liecit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/liecit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_drzy.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/drzy.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_dostat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/dostat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_ovonat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/ovonat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_spat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/spat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_letny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/letny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_poslat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/poslat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_nemecky.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/nemecky.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bozkat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bozkat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_th_weather.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/th_weather.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_chory.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/chory.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_jediny.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/jediny.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_bezat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/bezat.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_susit.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/susit.html"
+    },
+    {
+        "merged": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/res/merged/release/raw_vecerat.html.flat",
+        "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/raw/vecerat.html"
+    }
+]

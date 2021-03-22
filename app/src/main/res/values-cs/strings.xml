@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sk-El Slovník</string>
+	<string name="app_name2">Prosím, čekejte.</string>  
+    <string name="settings">Nastavení</string>
+    <string name="about">O aplikaci</string>
+    <string name="settheme">Téma</string>
+    <string name="menu_setting">Nastavení</string>
+    <string name="themelight">Světlá téma</string>
+    <string name="themeblack">Tmavá téma</string>
+    <string name="font_size">Velikost písma</string>
+    
+    <string name="huge_font">Obrovské písmo</string>
+    <string name="large_font">Velké písmo</string>
+    <string name="medium_font">Střední písmo</string>
+    <string name="small_font">Malé písmo</string>
+    <string name="tiny_font">Drobné písmo</string>
+	<string name="searchType">způsob vyhledání</string>
+	<string name="endSubstring">podřetězec na konci</string>
+	<string name="anySubstring">podřetězec z obou stran</string>
+	
+	<string name="enableTTS">Povolit řeč</string>     
+	<string name="noSupportLanguage">Jazyk není podporován</string>
+	<string name="supportLanguage">Jazyk je podporován</string>
+	<string name="initilizationFailed">Inicializace protokolu TTS se nezdařila</string>
+	<string name="speech_prompt">Řekněte něco&#8230;</string>
+	
+	<string name="error_nomatch">Klepněte a opakujte</string>
+	<string name="error_server">Síť je odpojená!</string>
+	<string name="recognizer_busy">Nahrávač je zaneprázdněn</string>
+	<string name="error_client">Chyba klienta</string>
+	<string name="network_timeout">Časový limit sítě</string>
+	<string name="speech_timeout">Časový limit řeči</string>
+	
+	<string name="speech_slovak">mluvte slovensky</string>
+	<string name="speech_greek">mluvte řecký</string>
+	
+	<string name="slovak">slovensky</string>
+	<string name="greek">řecký</string>
+	
+    <string name="pexeso">Hra</string>
+	
+    <string name="grammar">Gramatika</string>
+    <string name="start_create_database">Start tvorby databáze</string>
+    <string name="create_database_done">Tvorba databáze dokončena</string>
+    <string name="search_hint">Hledej v slovníku:</string>
+    <string name="detail">Skloňování</string> 
+    <string name="aboutDict">O slovníku</string>
+    <string name="slovakwords">Slovenských slov:</string>
+    <string name="greekwords">Řeckých slov:</string>
+    <string name="show_articles">Zobrazit členy</string>
+    
+    <string name="show_word_type">Zobrazit slovní druh</string>
+    <string name="speech_language">Jazyk řeči</string>
+
+    <string name="language">Jazyk poznámek a slovního druhu</string>
+    <string name="slo">Slovensky</string>
+    <string name="gre">Grécky</string>
+
+    <string name="articles">Zobrazit členy</string>
+    <string name="more">Více</string>
+    <string name="email">stefan.cizmar.pp@centrum.sk</string>
+    <string name="donate">Darujte</string>
+     
+    <string name="dell_favorites">Smazat všechny oblíbené položky</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+ 	<string name="addto_favorites">Slovo bylo přidáno do oblíbených</string>
+ 	   
+    <string name="no_accent">Vyhledávání bez interpunkce</string>
+    <string name="appinfo">\t\tJednoduchý offline Slovensko - Řecký slovník. Obsahuje téměř 29 000 slov a slovních spojení.
+        Pro hledání slov v řečtině je třeba přidat v nastavení telefonu řeckou klávesnici.\n
+        \t\tSlovník obsahuje jednoduchou hru a widget generující náhodné slova.\n
+        \t\tNastavení umožnuje:\n
+- zvolit tmavou nebo světlou téma. Od Android 10 automaticky.\n
+- velikost písma\n
+- způsob vyhledávání. Dvě vyhledávací styly.\n
+- vyhledávání bez interpunkce\n
+- zobrazit člen\n
+- zobrazit slovní druh\n
+- povolit řeč\n
+- zvolit jazyk poznámek a slovního druhu\n
+- zvolit jazyk řeči\n
+        \t\tPodržením na slově, přidáte slovo k oblíbeným.\n
+        \t\tAplikace podporuje převod textu na řeč. Povolte a nastavte řeč v nastavení a kliknete na ikonu reproduktoru.\n
+        \t\tPři převodu řeči na text je třeba povolit přístup aplikaci k mikrofonu.</string>
+    <string name="copyright">2012 – 2020 Štefan Čižmár</string>
+    
+    <string name="dictinfo">\n\t Použité zkratky a výrazy ve slovníku.\n\n
+
+  \t V slovenskom jazyku:
+      \n\n
+        CITOSLOV. - citoslovce \n
+ČASTICA - částice \n
+ČÍSL. - číslovka \n
+PO. M. MUŽ. - podstatné jméno mužského rodu \n
+PO. M. MUŽ. MN. - podstatné jméno mužského rodu množné číslo  \n
+PO. M. MUŽ. NESKL. - podstatné jméno mužského rodu neohybné \n
+PO. M. STR. - podstatné jméno středního rodu \n
+PO. M. STR. MN. - podstatné jméno středního rodu množné číslo \n
+PO. M. STR. NESKL. - podstatné jméno středního rodu neohybné \n
+PO. M. ŽEN. - podstatné jméno ženského rodu \n
+PO. M. ŽEN. MN. - podstatné jméno ženského rodu množné číslo \n
+PO. M. ŽEN. NESKL. -  podstatné meno ženského rodu nesklonné \n
+PREDL. - předložka \n
+PRÍD. M. - přídavné jméno \n
+PRÍD. M. MN. - přídavné jméno množné číslo \n
+PRÍD. M. NESKL. - přídavné jméno neohybné \n
+PRÍSL. - příslovce \n
+ROZKAZ. - rozkazovací způsob \n
+SKRATKA - zkratka \n
+SLOV. - sloveso \n
+SLOV. MIN. ČAS - sloveso minulý čas \n
+SLOV. MIN. PAS. HL. - sloveso minulý pasivní hlas \n
+SLOV. PAS. HL. - sloveso pasivní hlas \n
+SLOV. PRÍČ. - sloveso příčestí \n
+SPOJKA - spojka \n
+ZÁM. - zájmeno \n
+ZDROB. - zdrobnělina \n\n
+
+
+\t V řeckém jazyce:
+        \n\n
+YΠΟKΟΡ. - zdrobnělina \n
+ΑΝΤΩΝ. - zájmeno \n
+ΑΡΙΘ. - číslovka \n
+ΕΠIΡΡ. - příslovce \n
+ΕΠΙΘ. - přídavné jméno \n
+ΕΠΙΘ. ΆΚΛΙΤΟ - přídavné jméno neohybné \n
+ΕΠΙΘ. ΠΛΘ. - přídavné jméno množné číslo \n
+ΕΠΙΦΏ. - citoslovce \n
+ΜΟΡ. - částice \n
+ΟΥΣ. ΑΡΣ. - podstatné jméno mužského rodu \n
+ΟΥΣ. ΑΡΣ. ΆΚΛΙΤΟ - podstatné jméno mužského rodu neohybné \n
+ΟΥΣ. ΑΡΣ. ΠΛΘ. - podstatné jméno mužského rodu množné číslo \n
+ΟΥΣ. ΘΗΛ. - podstatné jméno ženského rodu \n
+ΟΥΣ. ΘΗΛ. ΆΚΛΙΤΟ - podstatné jméno ženského rodu neohybné \n
+ΟΥΣ. ΘΗΛ. ΠΛΘ. - podstatné jméno ženského rodu množné číslo \n
+ΟΥΣ. ΟΥΔ. - podstatné jméno středního rodu \n
+ΟΥΣ. ΟΥΔ. ΆΚΛΙΤΟ - podstatné jméno středního rodu neohybné \n
+ΟΥΣ. ΟΥΔ. ΠΛΘ. - podstatné jméno středního rodu množné číslo \n
+ΠΡΟΘ. - předložka \n
+ΠΡΟΣ. - rozkazovací způsob \n
+ΡΗΜ. - sloveso \n
+ΡΗΜ. ΑΟΡ. - sloveso minulý čas \n
+ΡΗΜ. ΑΟΡ. ΠΑΘ. - sloveso minulý pasivní hlas \n
+ΡΗΜ. ΜΕΤ. - sloveso příčestí \n
+ΡΗΜ. ΠΑΘ. - sloveso pasivní hlas \n
+ΣΥΝΔ. - spojka \n
+ΣΥΝΤ. - zkratka \n
+
+Slova a zkratky při zobrazení skloňování:\n\n
+ενεργητική - aktivní hlas \n
+παθητική - pasivní hlas \n
+ενικός - jednotné číslo \n
+πληθυντικός - množné číslo \n
+ενεστώτας - přítomný čas \n
+αόριστος - minulý čas \n
+μέλλοντας - budoucí čas \n
+προστακτική - rozkazovací způsob \n
+ονομ. - nominatív \n
+γεν. - genitív \n
+αιτ. - akuzatív \n
+αρσενικό - mužský rod \n
+θηλυκό - ženský rod \n
+ουδέτερο - střední rod \n
+</string>
+    <string name="sk_el_directory">Slovensko - řecky</string>
+    <string name="el_sk_directory">Řecko - slovensky</string>
+
+
+    <string name="choose_theme">Spojte slova</string>
+
+    <string name="th_numbers">Čísla</string>
+    <string name="th_family">Rodina</string>
+    <string name="th_market">Trh</string>
+    <string name="th_restaurant">Restaurace</string>
+    <string name="th_pronouns">Zájmena</string>
+    <string name="th_health">Zdraví</string>
+    <string name="th_body">Tělo</string>
+    <string name="th_traveling">Cestování</string>
+    <string name="th_chemistry">Chemie</string>
+    <string name="th_biology">Biologie</string>
+    <string name="th_school">Škola</string>
+    <string name="th_all">Celý slovník</string>
+    <string name="th_sports">Sport</string>
+    <string name="th_plants">Rostliny</string>
+    <string name="th_animals">Zvířata</string>
+    <string name="th_physics">Fyzika</string>
+    <string name="th_housing">Bydlení</string>
+    <string name="th_transport">Doprava</string>
+    <string name="th_church">Církev</string>
+    <string name="th_everyday">Každý den</string>
+    <string name="th_food">Potraviny</string>
+    <string name="dbver">Verze databáze:</string>
+    <string name="success">Úspěšnost:</string>
+    <string name="refresh">Obnovit</string>
+    <string name="end_test">Konec testu</string>
+
+
+</resources>

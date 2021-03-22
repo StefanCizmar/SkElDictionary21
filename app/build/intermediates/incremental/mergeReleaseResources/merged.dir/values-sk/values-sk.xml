@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">O aplikácií</string>
+    <string name="aboutDict">O slovníku</string>
+    <string name="addto_favorites">Slovo bolo pridané do obľúbených</string>
+    <string name="anySubstring">podreťazec z oboch strán</string>
+    <string name="app_name">Sk-El Slovník</string>
+    <string name="app_name2">Prosím čakaj.</string>
+    <string name="appinfo">\t\tJednoduchý offline Slovensko - Grécky slovník. Obsahuje takmer 29 000 slov a slovných spojení.\n
+        Pre hľadanie slov v gréčtine je potrebné pridať v nastaveniach telefónu grécku klávesnicu.\n
+        \t\tNastavenie umožnuje:\n
+- zvoliť tmavú alebo svetlú tému. Od Android 10 automaticky.\n
+- veľkosť písma\n
+- spôsob vyhľadávania, dva spôsoby\n
+- vyhľadávanie bez interpunkcie\n
+- zobraziť člen\n
+- zobraziť slovný druh\n
+- povoliť reč\n
+- zvoliť jazyk poznámok a slovného druhu\n
+- zvoliť jazyk reči\n
+
+        \t\tPodržaním na slove, pridáte slovo k obľúbeným.
+        Aplikácia obsahuje jednoduchú hru a widget generujuci náhodné slová.\n
+        \t\tAplikácia podporuje prevod textu na reč.
+        Povolte a nastavte reč v nastavení a kliknete na ikonu reproduktora.\n
+        \t\tPri prevode reči na text je potrebné povoliť prístup aplikácii k mikrofónu.</string>
+    <string name="articles">Zobraziť členy</string>
+    <string name="choose_theme">Spojte slová</string>
+    <string name="copyright">2012 – 2020 Štefan Čižmár</string>
+    <string name="create_database_done">Tvorba databázy dokončená</string>
+    <string name="dbver">Verzia databázy:</string>
+    <string name="dell_favorites">Odstrániť všetky obľúbené položky</string>
+    <string name="detail">Skloňovanie</string>
+    <string name="dictinfo">\n\t Použité skratky a výrazy v slovníku.\n
+\n
+  \t V slovenskom jazyku:
+      \n\n
+        CITOSLOV. - citoslovce \n
+ČASTICA - častica \n
+ČÍSL. - číslovka \n
+PO. M. MUŽ. - podstatné meno mužského rodu \n
+PO. M. MUŽ. MN. - podstatné meno mužského rodu množné číslo \n
+PO. M. MUŽ. NESKL. - podstatné meno mužského rodu nesklonné \n
+PO. M. STR. - podstatné meno stredného rodu \n
+PO. M. STR. MN. - podstatné meno stredného rodu množné číslo \n
+PO. M. STR. NESKL. - podstatné meno stredného rodu nesklonné \n
+PO. M. ŽEN. - podstatné meno ženského rodu \n
+PO. M. ŽEN. MN. - podstatné meno ženského rodu množné číslo \n
+PO. M. ŽEN. NESKL. -  podstatné meno ženského rodu nesklonné \n
+PREDL. - predložka \n
+PRÍD. M. - prídavné meno \n
+PRÍD. M. MN. - prídavné meno množné číslo \n
+PRÍD. M. NESKL. - prídavné meno nesklonné \n
+PRÍSL. - príslovka \n
+ROZKAZ. - rozkazovací spôsob \n
+SKRATKA - skratka \n
+SLOV. - sloveso \n
+SLOV. MIN. ČAS - sloveso minulý čas \n
+SLOV. MIN. PAS. HL. - sloveso minulý pasívny hlas \n
+SLOV. PAS. HL. - sloveso pasívny hlas \n
+SLOV. PRÍČ. - sloveso príčastie \n
+SPOJKA - spojka \n
+ZÁM. - zámeno \n
+ZDROB. - zdrobnenina \n\n
+
+
+\t V gréckom jazyku:
+        \n\n
+YΠΟKΟΡ. - zdrobnenina \n
+ΑΝΤΩΝ. - zámeno \n
+ΑΡΙΘ. - číslovka \n
+ΕΠIΡΡ. - príslovka \n
+ΕΠΙΘ. - prídavné meno \n
+ΕΠΙΘ. ΆΚΛΙΤΟ - prídavné meno nesklonné \n
+ΕΠΙΘ. ΠΛΘ. - prídavné meno množné číslo \n
+ΕΠΙΦΏ. - citoslovce \n
+ΜΟΡ. - častica \n
+ΟΥΣ. ΑΡΣ. - podstatné meno mužského rodu \n
+ΟΥΣ. ΑΡΣ. ΆΚΛΙΤΟ - podstatné meno mužského rodu nesklonné \n
+ΟΥΣ. ΑΡΣ. ΠΛΘ. - podstatné meno mužského rodu množné číslo \n
+ΟΥΣ. ΘΗΛ. - podstatné meno ženského rodu \n
+ΟΥΣ. ΘΗΛ. ΆΚΛΙΤΟ - podstatné meno ženského rodu nesklonné \n
+ΟΥΣ. ΘΗΛ. ΠΛΘ. - podstatné meno ženského rodu množné číslo \n
+ΟΥΣ. ΟΥΔ. - podstatné meno stredného rodu \n
+ΟΥΣ. ΟΥΔ. ΆΚΛΙΤΟ - podstatné meno stredného rodu nesklonné \n
+ΟΥΣ. ΟΥΔ. ΠΛΘ. - podstatné meno stredného rodu množné číslo \n
+ΠΡΟΘ. - predložka \n
+ΠΡΟΣ. - rozkazovací spôsob \n
+ΡΗΜ. - sloveso \n
+ΡΗΜ. ΑΟΡ. - sloveso minulý čas \n
+ΡΗΜ. ΑΟΡ. ΠΑΘ. - sloveso minulý pasívny hlas \n
+ΡΗΜ. ΜΕΤ. - sloveso príčastie \n
+ΡΗΜ. ΠΑΘ. - sloveso pasívny hlas \n
+ΣΥΝΔ. - spojka \n
+ΣΥΝΤ. - skratka \n
+
+\n
+Slová a skratky pri zobrazení skloňovania:\n\n
+ενεργητική - aktívny hlas\n
+παθητική - pasívny hlas\n
+ενικός - jednotné číslo\n
+πληθυντικός - množné číslo\n
+ενεστώτας - prítomný čas\n
+αόριστος - minulý čas\n
+μέλλοντας - budúci čas\n
+προστακτική - rozkazovací spôsob\n
+ονομ. - nominatív\n
+γεν. - genitív\n
+αιτ. - akuzatív\n
+αρσενικό - mužský rod\n
+θηλυκό - ženský rod\n
+ουδέτερο - stredný rod\n
+</string>
+    <string name="donate">Darujte</string>
+    <string name="el_sk_directory">Grécko - slovensky</string>
+    <string name="email">stefan.cizmar.pp@centrum.sk</string>
+    <string name="enableTTS">Povoliť reč</string>
+    <string name="endSubstring">podreťazec na konci</string>
+    <string name="end_test">Koniec testu</string>
+    <string name="error_client">Chyba klienta</string>
+    <string name="error_nomatch">Klepnite a opakujte</string>
+    <string name="error_server">Sieť je odpojená!</string>
+    <string name="font_size">Veľkosť písma</string>
+    <string name="grammar">Gramatika</string>
+    <string name="gre">Grécky</string>
+    <string name="greek">grécky</string>
+    <string name="greekwords">Gréckych slov:</string>
+    <string name="huge_font">Obrovské písmo</string>
+    <string name="initilizationFailed">Inicializácia TTS zlyhala</string>
+    <string name="language">Jazyk poznámok a slovného druhu</string>
+    <string name="large_font">Veľké písmo</string>
+    <string name="medium_font">Stredné písmo</string>
+    <string name="menu_setting">Nastavenie</string>
+    <string name="more">Viac</string>
+    <string name="network_timeout">Časový limit siete</string>
+    <string name="no">Nie</string>
+    <string name="noSupportLanguage">Jazyk nie je podporovaný</string>
+    <string name="no_accent">Vyhľadávanie bez interpunkcie</string>
+    <string name="pexeso">Hra</string>
+    <string name="recognizer_busy">Nahrávač je zaneprázdnený</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="searchType">Spôsob vyhľadavania</string>
+    <string name="search_hint">Hľadaj v slovníku:</string>
+    <string name="settheme">Téma</string>
+    <string name="settings">Nastavenie</string>
+    <string name="show_articles">Zobraziť členy</string>
+    <string name="show_word_type">Zobraziť slovný druh</string>
+    <string name="sk_el_directory">Slovensko - grécky</string>
+    <string name="slo">Slovensky</string>
+    <string name="slovak">slovensky</string>
+    <string name="slovakwords">Slovenských slov:</string>
+    <string name="small_font">Malé písmo</string>
+    <string name="speech_greek">hovorte grécky</string>
+    <string name="speech_language">Jazyk reči</string>
+    <string name="speech_prompt">Povedz niečo…</string>
+    <string name="speech_slovak">hovorte slovensky</string>
+    <string name="speech_timeout">Časový limit reči</string>
+    <string name="start_create_database">Štart tvorby databázy</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success">Úspešnosť:</string>
+    <string name="supportLanguage">Jazyk je podporovaný</string>
+    <string name="th_all">Celý slovník</string>
+    <string name="th_animals">Zvieratá</string>
+    <string name="th_biology">Biológia</string>
+    <string name="th_body">Telo</string>
+    <string name="th_chemistry">Chémia</string>
+    <string name="th_church">Cirkev</string>
+    <string name="th_everyday">Každý deň</string>
+    <string name="th_family">Rodina</string>
+    <string name="th_food">Potraviny</string>
+    <string name="th_health">Zdravie</string>
+    <string name="th_housing">Bývanie</string>
+    <string name="th_market">Obchod</string>
+    <string name="th_numbers">Čísla</string>
+    <string name="th_physics">Fyzika</string>
+    <string name="th_plants">Rastliny</string>
+    <string name="th_pronouns">Zámena</string>
+    <string name="th_restaurant">Reštaurácia</string>
+    <string name="th_school">Škola</string>
+    <string name="th_sports">Športy</string>
+    <string name="th_transport">Doprava</string>
+    <string name="th_traveling">Cestovanie</string>
+    <string name="themeblack">Tmavá téma</string>
+    <string name="themelight">Svetlá téma</string>
+    <string name="tiny_font">Drobné písmo</string>
+    <string name="yes">Áno</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/menu_setting">
+        <ListPreference android:entries="@array/themes" 
+            android:title="@string/settheme" 
+            android:key="prefTheme" 
+            android:summary="Set theme" 
+            android:entryValues="@array/themeValues" />
+        <ListPreference android:entries="@array/fonts" 
+            android:title="@string/font_size" 
+            android:key="prefFontSize" 
+            android:summary="Set font size" 
+            android:entryValues="@array/fontValues" />
+        
+       	<ListPreference android:entries="@array/search" 
+            android:title="@string/searchType" 
+            android:key="prefSearchType" 
+            android:summary="Search type" 
+            android:entryValues="@array/searchValues" />
+        
+        <CheckBoxPreference 
+            android:title="@string/no_accent"
+            android:key="prefAccent"
+            android:defaultValue="false" />
+        <CheckBoxPreference 
+            android:title="@string/articles"
+            android:key="prefArticles"
+            android:defaultValue="false" />
+        <CheckBoxPreference 
+            android:title="@string/show_word_type"
+            android:key="prefClass"
+            android:defaultValue="false" />
+
+         <CheckBoxPreference
+            android:title="@string/enableTTS"
+            android:key="prefSpeech"
+            android:defaultValue="false" />
+        <ListPreference android:entries="@array/language"
+            android:title="@string/language"
+            android:key="prefLanguage"
+            android:summary="Set type language"
+            android:entryValues="@array/languageValues" />
+          <ListPreference android:entries="@array/speech" 
+            android:title="@string/speech_language" 
+            android:key="prefSpeechType" 
+            android:summary="Set type speech" 
+            android:entryValues="@array/speechValues" />
+    </PreferenceCategory>
+</PreferenceScreen>

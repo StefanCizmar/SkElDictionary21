@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--  
+    <item android:id="@+id/action_search"
+      android:title=""
+      android:icon="@android:drawable/ic_menu_search"
+      android:textColor="@color/backgroundLight"
+      android:showAsAction="ifRoom"
+      android:actionLayout="@layout/ab_search" />  
+        -->
+    <item android:id="@+id/speech"
+        android:title=""  
+        android:icon="@drawable/ic_action_speech" 
+        android:showAsAction="always">   
+    </item>
+    <item android:id="@+id/favorites" 
+        android:title="" 
+        android:icon="@drawable/ic_action_favorites2" 
+        android:showAsAction="always">      
+    </item>
+    <item android:id="@+id/ic_setting" 
+        android:title=""       
+        android:icon="@drawable/ic_action_settings2" 
+        android:showAsAction="always">
+        
+	<menu>
+		<item
+			android:id="@+id/action_setting"
+			android:icon="@drawable/ic_n_setting"
+			android:showAsAction="never"
+			android:title="@string/settings"></item>
+		<!--  -->
+
+		<item
+			android:id="@+id/action_themes"
+			android:icon="@drawable/ic_n_game"
+			android:title="@string/choose_theme" />
+
+		<item
+			android:id="@+id/action_grammary"
+			android:icon="@drawable/ic_n_grammary"
+			android:showAsAction="never"
+			android:title="@string/grammar"></item>
+		<item
+			android:id="@+id/action_about"
+			android:icon="@drawable/ic_n_info"
+			android:showAsAction="never"
+			android:title="@string/about"></item>
+		<item
+			android:id="@+id/action_aboutdict"
+			android:icon="@drawable/ic_n_infodict"
+			android:showAsAction="never"
+			android:title="@string/aboutDict"></item>
+	     
+    </menu>    
+    </item>
+    
+    
+    
+    
+
+</menu>

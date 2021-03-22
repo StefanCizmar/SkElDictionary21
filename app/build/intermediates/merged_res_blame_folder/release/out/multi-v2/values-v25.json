@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/stefan/workspace/SkElDictionary21/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/stefan/workspace/SkElDictionary21/app/src/main/res/values-v25/styles.xml",
+                    "from": {
+                        "startLines": "16,32,6,22",
+                        "startColumns": "1,1,1,2",
+                        "startOffsets": "566,1141,162,754",
+                        "endLines": "18,34,14,30",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "712,1287,563,1138"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,206,357,763",
+                        "endLines": "4,7,16,25",
+                        "endColumns": "9,9,9,9",
+                        "endOffsets": "201,352,758,1147"
+                    }
+                }
+            ]
+        }
+    ]
+}

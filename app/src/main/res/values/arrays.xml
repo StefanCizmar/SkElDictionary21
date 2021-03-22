@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="themes">
+        <item>@string/themelight</item>
+        <item>@string/themeblack</item>
+    </string-array>
+    <string-array name="themeValues" translatable="false">
+        <item>light</item>
+        <item>black</item>
+    </string-array>
+    <string-array name="fonts">
+        <item>@string/huge_font</item>
+        <item>@string/large_font</item>
+        <item>@string/medium_font</item>
+        <item>@string/small_font</item>
+        <item>@string/tiny_font</item>
+    </string-array>
+    <string-array name="fontValues" translatable="false">
+        <item>huge_font</item>
+        <item>large_font</item>
+        <item>medium_font</item>
+        <item>small_font</item>
+        <item>tiny_font</item>
+    </string-array>
+    
+    <string-array name="search">
+        <item>@string/endSubstring</item>
+        <item>@string/anySubstring</item>
+    </string-array>
+    
+    <string-array name="speech">
+        <item>@string/slovak</item>
+        <item>@string/greek</item>
+    </string-array>
+
+    <string-array name="speechValues" translatable="false">
+        <item>slovak</item>
+        <item>greek</item>
+    </string-array>
+    <string-array name="searchValues" translatable="false">
+        <item>end</item>
+        <item>any</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>@string/slo</item>
+        <item>@string/gre</item>
+    </string-array>
+
+    <string-array name="dict_theme">
+
+        <item>@string/th_numbers</item>
+        <item>@string/th_family</item>
+        <item>@string/th_traveling</item>
+
+        <item>@string/th_restaurant</item>
+        <item>@string/th_market</item>
+        <item>@string/th_body</item>
+
+        <item>@string/th_health</item>
+        <item>@string/th_animals</item>
+        <item>@string/th_plants</item>
+
+        <item>@string/th_sports</item>
+        <item>@string/th_chemistry</item>
+        <item>@string/th_physics</item>
+
+        <item>@string/th_school</item>
+        <item>@string/th_housing</item>
+        <item>@string/th_transport</item>
+
+        <item>@string/th_church</item>
+        <item>@string/th_food</item>
+        <item>@string/th_everyday</item>
+
+        <item>@string/th_pronouns</item>
+        <item>@string/th_all</item>
+
+
+    </string-array>
+
+        <string-array name="languageValues" translatable="false">
+        <item>slovak</item>
+        <item>greek</item>
+        </string-array>
+</resources>

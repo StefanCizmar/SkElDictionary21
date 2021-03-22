@@ -1,0 +1,51 @@
+samples/dictionary/UI/DictionaryDetails.java
+ samples.dictionary.UI.DictionaryDetails
+samples/dictionary/Dictionary.java
+ samples.dictionary.Dictionary
+ samples.dictionary.Dictionary$1
+ samples.dictionary.Dictionary$2
+ samples.dictionary.Dictionary$3
+ samples.dictionary.Dictionary$4
+ samples.dictionary.Dictionary$5
+samples/dictionary/UI/Settings.java
+ samples.dictionary.UI.Settings
+ samples.dictionary.UI.Settings$1
+ samples.dictionary.UI.Settings$2
+ samples.dictionary.UI.Settings$3
+ samples.dictionary.UI.Settings$4
+ samples.dictionary.UI.Settings$5
+samples/dictionary/UI/AboutDict.java
+ samples.dictionary.UI.AboutDict
+ samples.dictionary.UI.AboutDict$1
+samples/dictionary/UI/ThemeGrid.java
+ samples.dictionary.UI.ThemeGrid
+ samples.dictionary.UI.ThemeGrid$1
+samples/dictionary/ThemeGridAdapter.java
+ samples.dictionary.ThemeGridAdapter
+samples/dictionary/WidgetDictionaryProvider.java
+ samples.dictionary.WidgetDictionaryProvider
+samples/dictionary/DictionaryAdapter.java
+ samples.dictionary.DictionaryAdapter
+ samples.dictionary.DictionaryAdapter$1
+ samples.dictionary.DictionaryAdapter$Holder
+samples/dictionary/UI/Grammar.java
+ samples.dictionary.UI.Grammar
+kiwi/employeedirectory/BuildConfig.java
+ kiwi.employeedirectory.BuildConfig
+samples/dictionary/UI/AboutApp.java
+ samples.dictionary.UI.AboutApp
+samples/dictionary/STTDialog.java
+ samples.dictionary.STTDialog
+ samples.dictionary.STTDialog$1
+ samples.dictionary.STTDialog$listener
+samples/dictionary/UI/Game.java
+ samples.dictionary.UI.Game
+ samples.dictionary.UI.Game$1
+ samples.dictionary.UI.Game$2
+samples/dictionary/UI/AboutMore.java
+ samples.dictionary.UI.AboutMore
+samples/dictionary/Search.java
+ samples.dictionary.Search
+samples/dictionary/DatabaseHelper.java
+ samples.dictionary.DatabaseHelper
+ samples.dictionary.DatabaseHelper$1

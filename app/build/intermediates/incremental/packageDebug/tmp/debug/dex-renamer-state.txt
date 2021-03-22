@@ -1,0 +1,4 @@
+#Sun Jan 03 10:12:28 CET 2021
+base.0=/home/stefan/workspace/SkElDictionary21/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

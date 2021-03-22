@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayoutApp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageLogo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/logo_about" />
+
+            <TextView
+                android:id="@+id/textInfoDic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="5dp"
+                android:text="@string/app_name"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/wordColorBlack" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/textInfo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_margin="5sp"
+                            android:text="@string/appinfo" />
+                    </LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+
+            <TextView
+                android:id="@+id/textCopyright"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/copyright"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <Button
+                android:id="@+id/email_button"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_margin="5sp"
+                android:background="@color/theme_blue"
+                android:paddingLeft="5sp"
+                android:paddingRight="5sp"
+                android:text="@string/email"
+                android:textColor="@color/defColor"
+                android:textColorLink="@color/theme_blue" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal">
+
+                <Button
+                    android:id="@+id/buttonOk2"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:layout_margin="5sp"
+                    android:background="@color/theme_blue"
+                    android:paddingLeft="5sp"
+                    android:paddingRight="5sp"
+                    android:text="@android:string/ok"
+                    android:textColor="@color/defColor"
+                    android:textColorLink="@color/white"
+                    tools:ignore="ButtonOrder" />
+
+                <Button
+                    android:id="@+id/donate_button"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:layout_margin="5sp"
+                    android:background="@color/wordColorBlack"
+                    android:paddingLeft="5sp"
+                    android:paddingRight="5sp"
+                    android:text="@string/donate"
+                    android:textColor="@color/defColor"
+                    android:textColorLink="@color/white"
+                    android:visibility="gone"
+                    tools:ignore="HardcodedText" />
+
+                <Button
+                    android:id="@+id/more_button"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="28dp"
+                    android:layout_margin="5sp"
+                    android:background="@color/wordColorBlack"
+                    android:paddingLeft="5sp"
+                    android:paddingRight="5sp"
+                    android:text="@string/more"
+                    android:textColor="@color/defColor"
+                    android:textColorLink="@color/white"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

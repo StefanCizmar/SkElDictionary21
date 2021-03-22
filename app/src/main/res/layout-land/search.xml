@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayoutMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="2dp"
+    android:orientation="horizontal"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:paddingTop="4dp" >
+
+    <EditText
+        android:id="@+id/searchText"
+        android:imeOptions="flagNoFullscreen"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/search_hint"
+        android:onClick="search"
+        android:paddingRight="4dp" />
+
+    <Button
+        android:id="@+id/btn_del_fav"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_action_dell_fav"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_del_all"
+        android:text=""
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/ic_action_dell_all" />
+
+    <ToggleButton
+        android:id="@+id/cTb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tb_selector"
+        android:height="25.0px"
+        android:minHeight="25.0px"
+        android:minWidth="35.0px"
+        android:text="ToggleBtn"
+        android:textOff=""
+        android:textOn=""
+        android:width="35.0px"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

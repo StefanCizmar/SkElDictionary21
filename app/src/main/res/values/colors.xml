@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wordColor">#ff2c6f8b</color>
+    <color name="wordColorBlack">#ff68c1e6</color>
+    <color name="defColor">#ff000000</color>
+    <color name="defColorBlack">#ffffffff</color>
+    <color name="backgroundLight">#ffffffff</color>
+    <color name="backgroundBlack">#ff000000</color>
+    <color name="row">#aa0000ff</color>
+    <color name="white">#ffffffff</color>
+    <color name="def2">#ffffaaaa</color>
+    
+    <color name="theme_blue">#2196f3</color>
+        <color name="selector">#aaaaaa</color>
+    
+</resources>

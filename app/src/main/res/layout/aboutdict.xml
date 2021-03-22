@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutdict"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundLight"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:paddingTop="5dp" >
+
+    <TextView
+        android:id="@+id/textSlovakwords"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:text="@string/slovakwords"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/backgroundBlack" />
+
+    <TextView
+        android:id="@+id/textGreekwords"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/greekwords"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/backgroundBlack" />
+
+    <TextView
+        android:id="@+id/tvDbVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:text="Db version:"
+        android:textColor="@color/backgroundBlack"
+        android:visibility="visible" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/textInfoDic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/filled_box"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            android:scrollbarStyle="insideOverlay"
+            android:text="@string/dictinfo"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/backgroundBlack" />
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/buttonOK"
+        style="android:buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@color/theme_blue"
+        android:text="@android:string/ok"
+        android:textColor="@color/white" />
+
+</LinearLayout>
