@@ -76,7 +76,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 			}
 		
 		
-		/***********************************************************************/
 		Log.d("Helper", "Database done.");
 		Toast.makeText(context, R.string.create_database_done, Toast.LENGTH_LONG).show();
 	}
@@ -95,7 +94,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
             super.handleMessage(msg);
         }
     };
-    /****************************************************************************************************/
-    
+
     
 }
