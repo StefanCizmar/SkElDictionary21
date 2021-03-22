@@ -35,7 +35,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
 	public static final String REMARKSK = "remarkSk";
 	public static final String REMARKEL = "remarkEl";
-
 	//public static final String DEFINITION2 = "definition2";
 
 	public static final String DEFINITIONSK = "definitionSk";
@@ -44,7 +43,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 	public static final String FAVORITES = "favorites";
     //public static final String NOFRASES = "nofrases";
     public static final String DECLENSION = "declension";
-
 
 	protected Context context;
 
