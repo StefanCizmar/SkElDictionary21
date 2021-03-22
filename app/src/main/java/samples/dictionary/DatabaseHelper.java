@@ -45,6 +45,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     //public static final String NOFRASES = "nofrases";
     public static final String DECLENSION = "declension";
 
+
 	protected Context context;
 
 	public DatabaseHelper(Context context) {
