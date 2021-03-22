@@ -36,7 +36,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 	public static final String REMARKSK = "remarkSk";
 	public static final String REMARKEL = "remarkEl";
 
-	public static final String DEFINITION2 = "definition2";
+	//public static final String DEFINITION2 = "definition2";
 
 	public static final String DEFINITIONSK = "definitionSk";
 	public static final String DEFINITIONEL = "definitionEl";
