@@ -55,9 +55,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 	@Override
 	public void onCreate(final SQLiteDatabase db) {
 	String s;
-		
-		//Toast.makeText(context, R.string.start_create_database, Toast.LENGTH_LONG).show();
-		
+
 		try {
 	        
 	        Log.d("Helper", "Create database.");
