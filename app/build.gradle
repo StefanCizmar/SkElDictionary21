@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    compileSdkVersion 30
+    buildToolsVersion '30.0.3'
 
     defaultConfig {
         applicationId "kiwi.employeedirectory"
         minSdkVersion 14
-        targetSdkVersion 29
+        targetSdkVersion 30
     }
 
     buildTypes {
@@ -20,5 +20,5 @@ android {
 
 dependencies {
     implementation 'com.android.support:support-annotations:28.0.0'
-    implementation 'com.android.support:support-compat:28.0.0'
+    implementation 'androidx.appcompat:appcompat:1.3.1'
 }

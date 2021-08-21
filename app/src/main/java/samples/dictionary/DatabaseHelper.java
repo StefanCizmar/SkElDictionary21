@@ -48,7 +48,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     public DatabaseHelper(Context context) {
 
-        super(context, DATABASE_NAME, null, 16); // number  is version db
+        super(context, DATABASE_NAME, null, 17); // number  is version db
         this.context = context;
     }
 
@@ -59,7 +59,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         try {
 
             Log.d("Helper", "Create database.");
-            InputStream in = context.getResources().openRawResource(R.raw.sql07122020);
+            InputStream in = context.getResources().openRawResource(R.raw.sql21082021);
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             Document doc = builder.parse(in, null);
             NodeList statements = doc.getElementsByTagName("statement");

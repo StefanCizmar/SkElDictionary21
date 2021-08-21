@@ -1,13 +1,13 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="kiwi.employeedirectory"
-4    android:versionCode="583"
-5    android:versionName="5.8.3" >
+4    android:versionCode="5844"
+5    android:versionName="5.8.4" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
 8-->/home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="29" />
+9        android:targetSdkVersion="30" />
 9-->/home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -26,8 +26,8 @@
 16
 17    <application
 17-->/home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:14:1-51:16
-18        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-18-->[com.android.support:support-compat:28.0.0] /home/stefan/.gradle/caches/transforms-2/files-2.1/49dd2c14dcc57c7f4a0aa1d53483e871/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] /home/stefan/.gradle/caches/transforms-2/files-2.1/5c4786bccfbaefa0f187e0e56044e26d/core-1.5.0/AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
 20-->/home/stefan/workspace/SkElDictionary21/app/src/main/AndroidManifest.xml:14:14-48

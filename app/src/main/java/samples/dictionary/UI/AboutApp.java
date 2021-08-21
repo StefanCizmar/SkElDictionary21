@@ -12,7 +12,6 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.support.annotation.RequiresApi;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
@@ -50,7 +49,7 @@ public class AboutApp extends Activity implements OnClickListener {
     private String verName;
     private PackageInfo manager;
 
-    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+    //@RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     public void onCreate(Bundle bundle) {
 
         super.onCreate(bundle);

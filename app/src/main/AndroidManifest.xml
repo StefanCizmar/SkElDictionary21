@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
 	package="kiwi.employeedirectory"
-      android:versionCode="583"
-      android:versionName="5.8.3">
+      android:versionCode="5844"
+      android:versionName="5.8.4">
 
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
