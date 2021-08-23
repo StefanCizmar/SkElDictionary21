@@ -87,13 +87,15 @@ public class DictionaryAdapter   extends BaseAdapter  {
 			child = layoutInflater.inflate(R.layout.dictionary_list_item, parent, false);
 			mHolder = new Holder();
 			
-			mHolder.txt_fword = (TextView) child.findViewById(R.id.wordL);
-			mHolder.txt_farth = (TextView) child.findViewById(R.id.arth);				
-			mHolder.txt_fdef = (TextView) child.findViewById(R.id.definition);		
-			mHolder.txt_fdef2 = (TextView) child.findViewById(R.id.def3);
-			mHolder.txt_frem = (TextView) child.findViewById(R.id.remark);
+			mHolder.txt_fword = child.findViewById(R.id.wordL);
+			mHolder.txt_farth = child.findViewById(R.id.arth);
+			mHolder.txt_fdef = child.findViewById(R.id.definition);
+			mHolder.txt_fdef2 = child.findViewById(R.id.def3);
+			mHolder.txt_frem = child.findViewById(R.id.remark);
+			mHolder.txt_ftrsp = child.findViewById(R.id.trsp);
+
 			//mHolder.btnDel = (TextView) child.findViewById(R.id.tvFavorites);
-			mHolder.btnSpeech = (ImageView) child.findViewById(R.id.btSpeech);	 // ImageView is O.K.
+			mHolder.btnSpeech = child.findViewById(R.id.btSpeech);	 // ImageView is O.K.
 
 			child.setTag(mHolder);
 		} else {
@@ -139,8 +141,33 @@ public class DictionaryAdapter   extends BaseAdapter  {
 
         /** definition	*****************************************************************/
 
-		mHolder.txt_fdef.setText(fdef.get(pos));
+			mHolder.txt_fdef.setText(fdef.get(pos));
 
+		/** transcription 	*****************************************************************/
+
+		if (farth2.get(pos).equals("")) {
+			mHolder.txt_ftrsp.setText( "[ " + ftrsp.get(pos) + " ]");
+		}
+		else {
+
+			/** */
+			mHolder.txt_ftrsp.setText("[ " + farth2.get(pos) + " " +  ftrsp.get(pos) + " ]");
+		}
+		if (Dictionary.tb.isChecked() )
+		{
+			mHolder.txt_ftrsp.setVisibility(View.GONE);
+		}
+		else mHolder.txt_ftrsp.setVisibility(View.VISIBLE);
+
+		if(Dictionary.show_art == false)
+
+			mHolder.txt_ftrsp.setText( "[ " + ftrsp.get(pos)+ " ]");
+		else {
+			if (farth2.get(pos).equals("")) {
+				mHolder.txt_ftrsp.setText("[ " +  ftrsp.get(pos) + " ]");
+			}
+				else mHolder.txt_ftrsp.setText("[ " + farth2.get(pos) + " " +  ftrsp.get(pos) + " ]");
+		}
 
 		/** definition 2	*****************************************************************/
 
@@ -151,7 +178,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 				mHolder.txt_fdef2.setText(fdef2.get(pos) + "");
 			}
 			else {
-				mHolder.txt_fdef2.setText(" - " + fdef2.get(pos));
+
+				/** */
+				mHolder.txt_fdef2.setText(" - " + fdef2.get(pos) );
 			}
 
         }
@@ -251,7 +280,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 		  		mHolder.txt_fword.setTextSize(14);
 		  		mHolder.txt_farth.setTextSize(14);
 		  		mHolder.txt_fdef.setTextSize(14);
-		  		mHolder.txt_fdef2.setTextSize(12);
+				mHolder.txt_ftrsp.setTextSize(14);
+
+				mHolder.txt_fdef2.setTextSize(12);
 		  		mHolder.txt_frem.setTextSize(12);
 
 	        }
@@ -260,7 +291,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 	        	mHolder.txt_fword.setTextSize(16);
 	        	mHolder.txt_farth.setTextSize(16);
 	        	mHolder.txt_fdef.setTextSize(16);
-	        	mHolder.txt_fdef2.setTextSize(14);
+				mHolder.txt_ftrsp.setTextSize(16);
+
+				mHolder.txt_fdef2.setTextSize(14);
 	        	mHolder.txt_frem.setTextSize(14);
 
 	        }
@@ -269,7 +302,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 	        	mHolder.txt_fword.setTextSize(18);
 	        	mHolder.txt_farth.setTextSize(18);
 	        	mHolder.txt_fdef.setTextSize(18);
-	        	mHolder.txt_fdef2.setTextSize(16);
+				mHolder.txt_ftrsp.setTextSize(18);
+
+				mHolder.txt_fdef2.setTextSize(16);
 	        	mHolder.txt_frem.setTextSize(16);
 
 	        }
@@ -278,7 +313,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 	        	mHolder.txt_fword.setTextSize(20);
 	        	mHolder.txt_farth.setTextSize(20);
 	        	mHolder.txt_fdef.setTextSize(20);
-	        	mHolder.txt_fdef2.setTextSize(18);
+				mHolder.txt_ftrsp.setTextSize(20);
+
+				mHolder.txt_fdef2.setTextSize(18);
 	        	mHolder.txt_frem.setTextSize(18);
 
 	        }
@@ -287,7 +324,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 	        	mHolder.txt_fword.setTextSize(22);
 	        	mHolder.txt_farth.setTextSize(22);
 	        	mHolder.txt_fdef.setTextSize(22);
-	        	mHolder.txt_fdef2.setTextSize(20);
+				mHolder.txt_ftrsp.setTextSize(22);
+
+				mHolder.txt_fdef2.setTextSize(20);
 	        	mHolder.txt_frem.setTextSize(20);
 
 	        }
@@ -297,7 +336,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 	        	mHolder.txt_fword.setTextColor(Color.parseColor("#2196f3"));
 	        	mHolder.txt_farth.setTextColor(Color.parseColor("#FF000000"));
 	        	mHolder.txt_fdef.setTextColor(Color.parseColor("#FF000000"));
-	        	mHolder.txt_fdef2.setTextColor(Color.parseColor("#FF00AA00"));
+				mHolder.txt_ftrsp.setTextColor(Color.parseColor("#FF000000"));
+
+				mHolder.txt_fdef2.setTextColor(Color.parseColor("#FF00AA00"));
 	        	mHolder.txt_frem.setTextColor(Color.parseColor("#FF00AA00"));
             	}
             if (Dictionary.Theme2)             	
@@ -305,7 +346,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
             	mHolder.txt_fword.setTextColor(Color.parseColor("#2196f3"));
             	mHolder.txt_farth.setTextColor(Color.parseColor("#FFFFFFFF"));
 	        	mHolder.txt_fdef.setTextColor(Color.parseColor("#FFFFFFFF"));
-	        	mHolder.txt_fdef2.setTextColor(Color.parseColor("#FF00FF00"));
+				mHolder.txt_ftrsp.setTextColor(Color.parseColor("#FFFFFFFF"));
+
+				mHolder.txt_fdef2.setTextColor(Color.parseColor("#FF00FF00"));
 	        	mHolder.txt_frem.setTextColor(Color.parseColor("#FF00FF00"));
             	}
 
@@ -317,6 +360,8 @@ public class DictionaryAdapter   extends BaseAdapter  {
 				mHolder.txt_fword.setTextColor(Color.parseColor("#2196f3"));
 				mHolder.txt_farth.setTextColor(Color.parseColor("#FFFFFFFF"));
 				mHolder.txt_fdef.setTextColor(Color.parseColor("#FFFFFFFF"));
+				mHolder.txt_ftrsp.setTextColor(Color.parseColor("#FFFFFFFF"));
+
 				mHolder.txt_fdef2.setTextColor(Color.parseColor("#FF00FF00"));
 				mHolder.txt_frem.setTextColor(Color.parseColor("#FF00FF00"));
 
@@ -324,6 +369,8 @@ public class DictionaryAdapter   extends BaseAdapter  {
 				mHolder.txt_fword.setTextColor(Color.parseColor("#2196f3"));
 				mHolder.txt_farth.setTextColor(Color.parseColor("#FF000000"));
 				mHolder.txt_fdef.setTextColor(Color.parseColor("#FF000000"));
+				mHolder.txt_ftrsp.setTextColor(Color.parseColor("#FF000000"));
+
 				mHolder.txt_fdef2.setTextColor(Color.parseColor("#FF00AA00"));
 				mHolder.txt_frem.setTextColor(Color.parseColor("#FF00AA00"));
 			}
@@ -342,7 +389,9 @@ public class DictionaryAdapter   extends BaseAdapter  {
 		TextView txt_farth;
 		TextView txt_fdef;
 		TextView txt_fdef2;
-		TextView txt_frem;	
+		TextView txt_frem;
+		TextView txt_ftrsp;
+
 		//TextView btnDel;
 		ImageView btnSpeech;
 

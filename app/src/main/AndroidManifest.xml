@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
 	package="kiwi.employeedirectory"
-      android:versionCode="5844"
+      android:versionCode="584"
       android:versionName="5.8.4">
 
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
